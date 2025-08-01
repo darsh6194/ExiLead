@@ -1,0 +1,79 @@
+{
+  "company": "Zebra",
+  "timestamp": "2025-07-31 10:58:10",
+  "source_url": "https://zebra.eightfold.ai/careers?location=India",
+  "configuration": {
+    "company": "Zebra",
+    "url": "https://zebra.eightfold.ai/careers?location=India",
+    "job_card": ".job-card-container.list",
+    "title": "h3",
+    "click_target": ".job-card-container.list",
+    "location": ".stack-module_stack__LqslD.stack-module_horizontal__m-79-.stack-module_xxs__ydvYL",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_selectors": {
+      "title": [
+        "h1[data-automation-id='jobPostingHeader']",
+        "h1",
+        ".job-title"
+      ],
+      "description": [
+        "[data-automation-id='jobPostingDescription']",
+        ".position-job-description",
+        "[data-automation-id='description']"
+      ],
+      "requirements": [
+        "[data-automation-id='qualifications']",
+        ".qualifications",
+        "[class*='requirement']"
+      ],
+      "location": [
+        "[data-automation-id='locations']",
+        ".location",
+        "[class*='location']"
+      ],
+      "employment_type": [
+        "[data-automation-id='employmentType']",
+        ".employment-type"
+      ],
+      "posted_date": [
+        "[data-automation-id='postedOn']",
+        ".posted-date"
+      ]
+    }
+  },
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Software Engineer, II",
+      "location": "Pune, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 10:57:31",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Software Engineer I (IN), Senior (Cloud)",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 10:58:03",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Data Scientist, Senior",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 10:58:09",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    }
+  ]
+}

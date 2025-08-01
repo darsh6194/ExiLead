@@ -1,0 +1,58 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-31T13:20:02.510544",
+    "session_id": "session_20250731_132002",
+    "status": "completed",
+    "total_companies": 1,
+    "completed_companies": 0,
+    "successful_companies": 0,
+    "total_jobs_scraped": 0,
+    "end_time": "2025-07-31T13:20:37.016098",
+    "total_duration_seconds": 34.505554,
+    "session_statistics": {
+      "total_job_cards_found": 0,
+      "total_skipped_duplicates": 0,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 0,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Microsoft": {
+      "company": "Microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India&p=Software%20Engineering&p=Technical%20Support&p=Research%2C%20Applied%2C%20%26%20Data%20Sciences&p=Hardware%20Engineering&p=Corporate%20Technology%20Support&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+      "status": "completed",
+      "start_time": "2025-07-31T13:20:03.228212",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 10.109091600000001,
+        "cookie_handling": 3.3696972000000005,
+        "page_load": 6.739394400000001,
+        "extraction": 13.478788800000002,
+        "total": 33.696972
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 0,
+        "skipped_duplicates": 0,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 0,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false,
+        "special_case_used": true
+      },
+      "end_time": "2025-07-31T13:20:36.925184"
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "company": "Zebra",
+  "timestamp": "2025-07-31 11:50:47",
+  "source_url": "https://zebra.eightfold.ai/careers?location=India",
+  "configuration": {
+    "company": "Zebra",
+    "url": "https://zebra.eightfold.ai/careers?location=India",
+    "job_card": ".job-card-container.list",
+    "title": "h3",
+    "click_target": "h3",
+    "location": ".stack-module_stack__LqslD.stack-module_horizontal__m-79-.stack-module_xxs__ydvYL",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_selectors": {
+      "title": [
+        "h1[data-automation-id='jobPostingHeader']",
+        "h1",
+        ".job-title"
+      ],
+      "description": [
+        "[data-automation-id='jobPostingDescription']",
+        ".position-job-description",
+        "[data-automation-id='description']"
+      ],
+      "requirements": [
+        "[data-automation-id='qualifications']",
+        ".qualifications",
+        "[class*='requirement']"
+      ],
+      "location": [
+        "[data-automation-id='locations']",
+        ".location",
+        "[class*='location']"
+      ],
+      "employment_type": [
+        "[data-automation-id='employmentType']",
+        ".employment-type"
+      ],
+      "posted_date": [
+        "[data-automation-id='postedOn']",
+        ".posted-date"
+      ]
+    }
+  },
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627662308&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:43:53",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627635632&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:44:26",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627589205&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:44:58",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627444625&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:45:31",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627113504&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:46:03",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626991474&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:46:36",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626971293&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:47:08",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626459976&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:47:41",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343625945791&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:48:14",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343625905268&domain=zebra.com&sort_by=relevance",
+      "description": "N/A",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:48:46",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    }
+  ]
+}

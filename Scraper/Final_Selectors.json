@@ -1,0 +1,573 @@
+ [{
+    "company": "Zebra",
+    "url": "https://zebra.eightfold.ai/careers?location=India",
+    "job_card": ".job-card-container.list",
+    "title": "h3",
+    "click_target": "h3",
+    "location": ".stack-module_stack__LqslD.stack-module_horizontal__m-79-.stack-module_xxs__ydvYL",
+    "posted": "div[data-automation-id='postedOn']",
+    "link": "h3 a",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_container": ".position-container",
+    "special_case": true
+  },
+  {
+    "company": "Microsoft",
+    "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India&p=Software%20Engineering&p=Technical%20Support&p=Research%2C%20Applied%2C%20%26%20Data%20Sciences&p=Hardware%20Engineering&p=Corporate%20Technology%20Support&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+    "job_card": "[data-automationid='ListCell']",
+    "title": "h2",
+    "click_target": "button[aria-label*='click to see details for']",
+    "location": "img[alt='job location icon'] + *",
+    "posted": "img[alt='posted details icon'] + *",
+    "link": "h2 a",
+    "pagination_selector": "button[aria-label='Go to next page']",
+    "pagination_type": "button_click",
+    "detail_container": ".ms-DocumentCard.SearchJobDetailsCard.root-569",
+    "special_case": true
+  },
+ 
+  {
+    "company": "Amazon",
+    "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+    "job_card": ".job",
+    "title": ".job-title",
+    "link": "a.job-link",
+    "location": "li.text-nowrap",
+    "posted": "h2.posting-date",
+    "pagination_type": "button_click",
+    "description": "div.qualifications-preview",
+    "pagination_selector": ".btn.circle.right"
+     
+  },
+   {
+    "company": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering%2CData%2C%20Analytics%20%26%20Research%2CDesign%2CAtlassian%20Corporate%20Engineering%20%28ACE%29&location=India&search=",
+    "job_card": "tbody tr",
+    "title": "td:first-child a",
+    "link": "td:first-child a",
+    "location": "td:nth-child(2)",
+    "pagination_type": "one_page"
+     
+  },
+  {
+    "company": "Google",
+    "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&skills=Software",
+    "job_card": ".Ln1EL",
+    "title": ".QJPWVe",
+    "link": "a",
+    "location": ".r0wTof",
+    "description": ".Xsxa1e",
+    "posted": ".Xsxa1e",
+    "metadata": ".r0wTof",
+    "pagination_type": "button_click",
+    "pagination_selector": ".WpHeLc.VfPpkd-mRLv6[aria-label=\"Go to next page\"]"
+     
+  },
+  {
+    "company": "Nokia",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&mode=location&selectedLocationsFacet=300000000471745&selectedTitlesFacet=SWA%3BIVT%3BCSI",
+    "job_card": ".job-list-item",
+    "title": ".job-tile__title",
+    "metadata_selector": ".job-tile__subheader",
+    "posted_on": ".job-list-item__job-info-value",
+    "link": "a.job-list-item__link[href]",
+    "pagination_type": "infinite_scroll"
+     
+  },
+  {
+    "company": "Apple",
+    "url": "https://jobs.apple.com/en-in/search?location=india-INDC&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+silicon-technologies-HRDWR-SILT+engineering-project-management-HRDWR-EPM+analog-and-digital-design-HRDWR-ADD",
+    "job_card": ".d-flex.flex-row.row.large-12.job-title.job-list-item",
+    "title": "h3",
+    "link": "a.link-inline.t-intro.word-wrap-break-word",
+    "location": "div[aria-label='Location']",
+    "posted": ".job-posted-date",
+    "pagination_type": "button_click",
+    "pagination_selector": "button[aria-label='Next Page']"
+     
+  },
+  {
+    "company": "IBM",
+    "url": "https://www.ibm.com/in-en/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Enterprise%20Operations&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_08[3]=Data%20%26%20Analytics&field_keyword_08[4]=Design%20%26%20UX&field_keyword_08[5]=Cloud&field_keyword_05[0]=India",
+    "job_card": ".bx--card-group__cards__col",
+    "title": ".bx--card__heading",
+    "link": "a",
+    "location": ".ibm--card__copy__inner",
+    "metadata_selector": ".ibm--card__copy__inner",
+    "pagination_selector": "a[data-key='next']",
+    "pagination_type": "button_click"
+     
+  },
+   {
+    "company": "Citrix",
+    "url": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN&dropdown_field_4_uids%5B%5D=a4417b43843293f5fa513f5f452169a7&dropdown_field_4_uids%5B%5D=77c93f5b8ab20d608fe14cc54a4b43f9&query=",
+    "job_card": ".card.job-search-results-card",
+    "title": "h3",
+    "link": "a",
+    "location": ".job-component-list.job-component-list-location",
+    "description": "p.card-text.job-search-results-summary",
+    "pagination_next": "a.page-link[rel='next']",
+    "pagination_type": "url_param",
+    "pagination_param": "page",
+    "pagination_step": 1
+  },
+  {
+    "company": "Teradata",
+    "url": "https://careers.teradata.com/jobs?location=India&jobCategory=3&jobCategory=16&jobCategory=18&jobCategory=8",
+    "job_card": ".root-102",
+    "title": "h4",
+    "link": "a.titleLink-106",
+    "location": "p[data-cy='job-location']",
+    "posted_selector": ".postedMessage-107",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "Texas Instruments",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?lastSelectedFacet=CATEGORIES&location=India&locationId=300000000361484&locationLevel=country&mode=location&selectedCategoriesFacet=300000068853972%3B300000068853892",
+    "job_card": ".job-list-item",
+    "title": ".job-tile__title",
+    "metadata_selector": ".job-tile__subheader",
+    "posted_on": ".job-list-item__job-info-value",
+    "link": "a.job-list-item__link[href]",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "United Health Group",
+    "url": "https://careers.unitedhealthgroup.com/job-search-results/?multi_select1[]=Business%20%26%20Data%20Analytics&multi_select1[]=Research%20and%20Development&multi_select1[]=Technology&location=India&country=IN&radius=25",
+    "job_card": "div[role='row']",
+    "title": ".jobTitle",
+    "link": "a[href*='job']",
+    "location": "div.joblist-location",
+    "posted_selector": "div.joblist-posdate",
+    "pagination_selector": "a[onclick*='jobs.next_page']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Citi Bank",
+    "url": "https://jobs.citi.com/search-jobs/India/287/2/1269750/22/79/50/2",
+    "job_card": "li:has(a[data-job-id])",
+    "title": "h3.search-results__job-title",
+    "link": "a[data-job-id]",
+    "location": "span.job-location",
+    "posted_date": "span.job-date, .posted-date",
+    "pagination_next": "a.next",
+    "pagination_type": "url_param",
+    "pagination_param": "p",
+    "pagination_step": 1
+  },
+  {
+    "company": "Synopsys",
+    "url": "https://careers.synopsys.com/search-jobs/India/44408/2/1269750/22/79/50/2",
+    "job_card": ".search-results-list__list-item",
+    "title": "h2",
+    "link": "a[href*='/job/']",
+    "location": "span.job-location",
+    "posted_selector": "span.job-date-posted",
+    "pagination_selector": "a.next",
+    "pagination_type": "button_click",
+    "Cookie":"Problem"
+  },
+  {
+    "company": "BMC",
+    "url": "https://jobs.bmc.com/Careers/SearchJobs/india?listFilterMode=1&jobRecordsPerPage=6&",
+    "job_card": "article",
+    "title": "a[href*='/JobDetail/']",
+    "link": "a[href*='/JobDetail/']",
+    "location": "span.list-item-location",
+    "posted_selector": "span.list-item-posted",
+    "pagination_selector": "a[aria-label^='Go to Next Page']",
+    "pagination_type": "button_click",
+    "pagination_param": "jobOffset",
+    "pagination_step": 6
+  },
+  {
+    "company": "Intuit",
+    "url": "https://jobs.intuit.com/search-jobs/India/27595/2/1269750/22/79/50/2",
+    "job_card": "a.sr-item[data-job-id]",
+    "title": "h2",
+    "location": "span.job-location",
+    "pagination_selector": "a.next",
+    "pagination_type": "button_click",
+    "cookie_handling": false
+  },
+  {
+    "company": "Pure Storage",
+    "url": "https://job-boards.greenhouse.io/purestorage?location=India&offices%5B%5D=43857&departments%5B%5D=301&departments%5B%5D=1597&departments%5B%5D=377",
+    "job_card": "a[href*='/purestorage/jobs/']",
+    "title": "p.body.body--medium",
+    "location": "p.body.body__secondary.body--metadata",
+    "pagination_type": "one_page",
+    "cookie_handling": false
+  },
+  {
+    "company": "Verizon",
+    "url": "https://mycareer.verizon.com/jobs/?search=&country=India&team=Product&team=Technology&pagesize=20#results",
+    "job_card": ".card-body",
+    "title": ".h2.card-title",
+    "link": "a",
+    "location": ".list-inline-item",
+    "pagination_selector": "a.page-link[title='Go to next page of results']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Salesforce",
+    "url": "https://careers.salesforce.com/en/jobs/?search=&country=India&team=Data&team=Development+%26+Strategy&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&team=User+Experience&pagesize=20#results",
+    "job_card": ".card.card-job",
+    "title": ".card-title",
+    "link": ".stretched-link.js-view-job",
+    "location": ".list-inline.locations",
+    "pagination_selector": "a[rel='next nofollow']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Morgan Stanley",
+    "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&location=India&pid=549783559225&sort_by=distance&filter_include_remote=1&filter_businessarea=technology%2Ctechnology+and+operations",
+    "job_card": ".cardContainer-GcY1a",
+    "title": ".title-1aNJK",
+    "location": ".fieldValue-3kEar",
+    "posted_selector": ".subData-13Lm1",
+    "link": ".r-link.card-F1ebU",
+    "pagination_selector": ".pagination-module_pagination-button__aTecY.pagination-module_pagination-next__OHCf9",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "NTT Data",
+    "url": "https://careers-inc.nttdata.com/search/?createNewAlert=false&q=&locationsearch=India",
+    "job_card": ".data-row",
+    "title": ".jobTitle.hidden-phone",
+    "link": ".jobTitle-link",
+    "location": ".jobLocation",
+    "posted_selector": ".jobDate.visible-phone",
+    "pagination_type": "url_param",
+    "pagination_param": "startrow",
+    "pagination_step": 25,
+    "pagination_last_selector": ".paginationItemLast"
+  },
+  {
+    "company": "Walmart",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal?jobFamilyGroup=e83ebdbd2a0a01ea72c2808948e924c6&jobFamilyGroup=e83ebdbd2a0a01e7e1477a8948e904c6&jobFamilyGroup=e83ebdbd2a0a01af0185848948e94dc6&jobFamilyGroup=e83ebdbd2a0a01cc71e67f8948e91ac6&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+  },
+   {
+    "company": "KPMG",
+    "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=Technology+Developer&lastSelectedFacet=LOCATIONS&location=India&locationId=300000000296042&locationLevel=country&mode=location&selectedLocationsFacet=300000000296042",
+    "job_card": ".job-list-item",
+    "title": ".job-tile__title",
+    "metadata_selector": ".job-tile__subheader",
+    "posted_on": ".job-list-item__job-info-value",
+    "link": "a.job-list-item__link[href]",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "Honeywell",
+    "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs?lastSelectedFacet=TITLES&location=India&locationId=300000000469485&locationLevel=country&mode=location&selectedTitlesFacet=124%3B120%3B125%3B340%3B126",
+    "job_card": ".job-tile",
+    "title": ".job-tile__title",
+    "link": "a.job-list-item__link",
+    "metadata_selector" : ".job-tile__subheader",
+    "description": ".job-list-item__description",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "Bank of America",
+    "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&start=0&rows=10&search=jobsByLocation&filters=division%3DGlobal+Technology%2Carea%3DProduct+Strategy+%26+Development%2Carea%3DTechnology&searchstring=India",
+    "job_card": ".job-search-tile",
+    "title": ".job-search-tile__title",
+    "link": ".job-search-tile__url.t-track-search-select-position",
+    "metadata_selector": ".job-search-tile__detail",
+    "pagination_selector": ".controls__next.js-controls__next.t-track-search-pagination.job-search-pagination",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Wells Fargo",
+    "url": "https://www.wellsfargojobs.com/en/jobs/?search=&country=India&team=Data+%26+Analytics&team=Research&team=Technology+%26+Data&pagesize=20#results",
+    "job_card": ".card.card-job",
+    "title": ".card-title",
+    "link": ".stretched-link",
+    "metadata_selector": ".list-inline.job-meta",
+    "pagination_selector": ".page-link",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "EY",
+    "url": "https://careers.ey.com/ey/search/?q=India&q2=&alertId=&locationsearch=&title=Developer&location=",
+    "job_card": "tr.data-row",
+    "title": "a.jobTitle-link",
+    "link": "a.jobTitle-link",
+    "location": "span.jobLocation",
+    "pagination_type": "url_param",
+    "pagination_param": "startrow",
+    "pagination_step": 25,
+    "pagination_last_selector": ".paginationItemLast"
+  },
+  {
+    "company": "SAP",
+    "url": "https://jobs.sap.com/search/?q=&locationsearch=India",
+    "job_card": "tr.data-row",
+    "title": "a.jobTitle-link",
+    "link": "a.jobTitle-link",
+    "location": "span.jobLocation",
+    "pagination_type": "url_param",
+    "pagination_param": "startrow",
+    "pagination_step": 25,
+    "pagination_last_selector": ".paginationItemLast"
+  },
+  {
+    "company": "Bosch",
+    "url": "https://careers.smartrecruiters.com/BoschGroup/india",
+    "job_card": ".opening-job.job",
+    "title": ".details-title.job-title.link--block-target",
+    "link": "a",
+    "location": ".opening-title.title.display--inline-block.text--default",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Nokia",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=India&locationId=300000000471745&locationLevel=country&mode=location",
+    "job_card": ".job-list-item",
+    "title": ".job-tile__title",
+    "metadata_selector": ".job-tile__subheader",
+    "description": ".job-list-item__description",
+    "link": "a.job-list-item__link[href]",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "Cisco",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1",
+    "job_card": "table.table_basic-1 tr:has(td[data-th='Job Title'])",
+    "title": "td[data-th='Job Title'] a",
+    "location": "td[data-th='Location']",
+    "link": "td[data-th='Job Title'] a",
+    "area_of_interest": "td[data-th='Actions']",
+    "job_level": "td[data-th='Area of Interest']",
+    "alternate_location": "td[data-th='Alternate Location']",
+    "pagination_selector": "a.pagination_item:has-text('Next')",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Goldman Sachs",
+    "url": "https://higher.gs.com/results?DIVISION=Engineering%20Division&JOB_FUNCTION=Data%20Analytics|Data%20Engineering|Software%20Engineering|Technology%20Products|Learning%20%26%20Development&LOCATION=Bengaluru|Mumbai|Hyderabad&page=1&sort=RELEVANCE",
+    "job_card": "div.d-flex.justify-content-between.border-bottom.gs-uitk-mb-2.gs-uitk-pb-1",
+    "title": "a.text-decoration-none",
+    "link": "a.text-decoration-none",
+    "metadata_selector": ".d-flex",
+    "pagination_selector": "a[aria-label='Goto next page']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Deloitte",
+    "url": "https://southasiacareers.deloitte.com/search/?q=&q2=&alertId=&locationsearch=India&title=Developer&location=&date=",
+    "job_card": ".data-row",
+    "title": ".jobTitle-link",
+    "link": ".jobTitle-link",
+    "location": ".jobLocation",
+    "posted_selector": ".jobDate",
+    "pagination_type": "url_param",
+    "pagination_param": "startrow",
+    "pagination_step": 25,
+    "pagination_last_selector": ".paginationItemLast"
+  },
+  {
+    "company": "JP Morgan",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India&locationId=300000000289360&locationLevel=country&mode=location",
+    "job_card": ".job-grid-item",
+    "title": ".job-grid-item__header",
+    "link": ".job-grid-item__link",
+    "location": ".job-tile__subheader",
+    "description": ".job-grid-item__description",
+    "pagination_type": "infinite_scroll"
+  },
+  {
+    "company": "IBM",
+    "url": "https://www.ibm.com/in-en/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Enterprise%20Operations&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_08[3]=Data%20%26%20Analytics&field_keyword_08[4]=Design%20%26%20UX&field_keyword_08[5]=Cloud&field_keyword_05[0]=India",
+    "job_card": ".bx--card-group__card",
+    "title": ".bx--card__heading",
+    "metadata_selector": ".ibm--card__copy__inner",
+    "description": ".ibm--card__copy__inner",
+    "pagination_selector": "a.cds--pagination-nav__page.cds--pagination-nav__page--direction[aria-label='Next']:not(.cds--pagination-nav__page--disabled)",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Target",
+    "url": "https://target.wd5.myworkdayjobs.com/TargetCareers?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+     
+  },
+  {
+"company": "Ciena",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers?Location_Region_State_Province=110deb52af724949bd6d2b655a3492f0&Location_Region_State_Province=a3c37012f51642f4a7b3dafc8ac37801&Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=f08e25a5d78010903df730510aefa016",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+     
+    },
+  {
+"company": "Motorola Solutions",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=India&jobFamilyGroup=2161bef685534428b91fad96fc9069b4&jobFamilyGroup=c3fc17b768e842e39b7192f0bf4cb0f1&jobFamilyGroup=c2197eea2758408bbbe52d2c04006230&timeType=14bb6aa2c25e4a218b2a3faaa951e44c",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+    
+    },
+  {
+"company": "BrowserStack",
+    "url": "https://browserstack.wd3.myworkdayjobs.com/External?jobFamilyGroup=0cb9174e33c9100190f156427de80000",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+    
+    },
+  {
+"company": "3M",
+    "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e937e224196b1066cb46855288e09e9c",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+    },
+  {
+"company": "Gen",
+    "url": "https://gen.wd1.myworkdayjobs.com/careers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[aria-label*='next']",
+    "pagination_type": "button_click"
+    },
+  
+  {
+    "company": "Intel",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External?locations=1e4a4eb3adf101f44070f976bf8184cf",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button.css-hvd5xx[aria-label*='next']",
+    "pagination_type": "button_click"
+  },
+  
+  {
+    "company": "Crowdstrike",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/CrowdStrikeCareers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&Job_Family=1408861ee6e201641be2c2f6b000c00b&Job_Family=1408861ee6e20197f95adbf6b000d20b&Job_Family=cb19f044639b1001f6a02595bc920000",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Nvidia",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52b82135ba3266",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Samsung",
+    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers?locations=9903637af4ee10017a5e7c6741a30000&locations=0c974e8c1228010867596ab21b3c3469",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  
+  {
+    "company": "Philips",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers?locationCountry=India&locationHierarchy1=6e1b2a934716103c2adde1d57e7700ea&jobFamilyGroup=58aeacb31cc0011e54561931bd325829&jobFamilyGroup=169c3da8f7270169c0ee692fbd324709&jobFamilyGroup=94eec23a3cab01216af07777df6a8d29",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Adobe",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=591af8b812fa10737af39db3d96eed9f&jobFamilyGroup=591af8b812fa10737b0e880e0e3eeee9",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Jhonson Controls",
+    "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI?locations=59c45107aefd0100150a39cae16f0000&locations=d88b8274a28d01001508d6e41b790000&locations=8a6647241218010014dc0448de550000&locations=8a6647241218010014dbfbb6369e0000&locations=d88b8274a28d0100151240aebe770000&locations=5d89c910febd010014edfa0ce32d0000&locations=15695db1dccc010014dc9953fad00000&locations=d88b8274a28d0100150d450046450000&jobFamilyGroup=e6c5fb966d2f103b0676ec44ac856a22",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  {
+    "company": "Logitech",
+    "url": "https://logitech.wd5.myworkdayjobs.com/Logitech?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e1dd9f3022da104d1ec67decab9a80a0&jobFamilyGroup=e1dd9f3022da104d1ec6875c07a280aa",
+    "job_card": ".css-1q2dra3",
+    "title": "a[data-automation-id='jobTitle']",
+    "link": "a[data-automation-id='jobTitle']",
+    "location": "div[data-automation-id='locations']",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button[data-uxi-element-id='next']",
+    "pagination_type": "button_click"
+  },
+  
+  {
+  "company": "Mastercard",
+  "url": "https://careers.mastercard.com/us/en/search-results",
+  "job_card": "li.jobs-list-item",
+  "title": ".job-title",
+  "link": "a.au-target",
+  "location": "span.job-location",
+  "description": ".au-target.show",
+  "posted on": "div[data-automation-id='postedOn']",
+  "metadata_selector" : "p.job-info",
+  "pagination_selector": "a.next-btn.au-target",
+  "pagination_type": "button_click",
+  "cookie_handling" : false
+}
+]

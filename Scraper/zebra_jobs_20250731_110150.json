@@ -1,0 +1,94 @@
+{
+  "company": "Zebra",
+  "timestamp": "2025-07-31 11:01:50",
+  "source_url": "https://zebra.eightfold.ai/careers?location=India",
+  "configuration": {
+    "company": "Zebra",
+    "url": "https://zebra.eightfold.ai/careers?location=India",
+    "job_card": ".job-card-container.list",
+    "title": "h3",
+    "click_target": "button[data-test-id='job-card-apply-button-0']",
+    "location": ".stack-module_stack__LqslD.stack-module_horizontal__m-79-.stack-module_xxs__ydvYL",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_selectors": {
+      "title": [
+        "h1[data-automation-id='jobPostingHeader']",
+        "h1",
+        ".job-title"
+      ],
+      "description": [
+        "[data-automation-id='jobPostingDescription']",
+        ".position-job-description",
+        "[data-automation-id='description']"
+      ],
+      "requirements": [
+        "[data-automation-id='qualifications']",
+        ".qualifications",
+        "[class*='requirement']"
+      ],
+      "location": [
+        "[data-automation-id='locations']",
+        ".location",
+        "[class*='location']"
+      ],
+      "employment_type": [
+        "[data-automation-id='employmentType']",
+        ".employment-type"
+      ],
+      "posted_date": [
+        "[data-automation-id='postedOn']",
+        ".posted-date"
+      ]
+    }
+  },
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "title": "Jobs at Zebra",
+      "location": "India×",
+      "posted_date": "N/A",
+      "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627662308&domain=zebra.com&sort_by=relevance#apply",
+      "description": "Remote Work: NoOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Designs, develops, and tests on a variety of software assignments that constitute a portion of a larger projectDevelops and tests documentation which describes the specific software functionalityParticipates and provides some input in project code reviewsRuns software tests designed by more experienced engineersReviews test results and perform root cause analyses to identify problemsProvides recommendations and implements solutions to complex issues. Insures compliance with quality process and standardsMakes changes to or upgrades existing software. Enhances and improves existing technologies to apply to new solutionsMakes and implements recommendations to immediate team to enhance performance and improve productivity  Seeks out new tools to analyze and solve problemsExercises judgment within defined procedures and practices to determine appropriate actionReceives general instructions on routine work, new projects or assignmentsMay provide guidance to non-exempt personnelBuilds productive working relationships internally and externallyPrimary intra-organizational with occasional inter-organizational and external customer contacts on routine mattersFamiliarity with cloud platforms (GCP) , natural language processing (NLP), LLM and Co-PilotContribute to continuous improvement by researching and applying new AI techniques and cloud technologies. Qualifications:Preferred Education: Bachelor's or Masters degree in an appropriate engineering discipline required.Preferred Work Experience (years):Bachelors degree and 2+ years or Masters degree with no experience.All Other Regions: Bachelor’s or Master’s degree in an appropriate engineeringdiscipline requiredPreferred work experience (years): 2+ years experience To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+      "requirements": "N/A",
+      "employment_type": "N/A",
+      "experience_level": "N/A",
+      "department": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:00:23",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Software Engineer I (IN), Senior (Cloud)",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:00:54",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Data Scientist, Senior",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:01:26",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    },
+    {
+      "title": "Product Manager Software Solutions, Advanced",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 11:01:49",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India"
+    }
+  ]
+}

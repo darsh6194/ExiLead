@@ -1,0 +1,36 @@
+
+✅ Classification completed!
+📊 Processed 20860 jobs in 2255.20 seconds
+
+📊 Job Category Statistics:
+--------------------------------------------------
+Software Development...............  10779
+Management/Leadership..............   2034
+Data Science/Analytics.............   1285
+Finance/Accounting.................   1178
+DevOps/Infrastructure..............    933
+Operations.........................    786
+Quality Assurance..................    638
+Consulting.........................    590
+Cybersecurity......................    415
+Other..............................    415
+Design/UX..........................    348
+Customer Success/Support...........    285
+HR/Recruiting......................    278
+Legal/Compliance...................    194
+Product Management.................    172
+Research...........................    153
+Marketing..........................    151
+Sales..............................    138
+Administrative.....................     36
+Healthcare.........................     35
+Education..........................     17
+--------------------------------------------------
+Total..............................  20860
+
+🔧 Technical vs Non-Technical Jobs:
+--------------------------------------------------
+Technical..........................  16811 (80.6%)
+Non-Technical......................   4049 (19.4%)
+--------------------------------------------------
+Total Classified...................  20860

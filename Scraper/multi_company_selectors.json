@@ -1,0 +1,14 @@
+[ {
+    "company": "Qualcomm",
+    "url": "https://careers.qualcomm.com/careers?location=India",
+    "job_card": ".job-card-container.list",
+    "title": "h2",
+    "click_target": "button[data-test-id='job-card-apply-button']",
+    "location": "img[alt='job location icon'] + *",
+    "posted": "img[alt='posted details icon'] + *",
+    "link": "h2 a",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_container": ".position-full-card",
+    "special_case": true
+  }]

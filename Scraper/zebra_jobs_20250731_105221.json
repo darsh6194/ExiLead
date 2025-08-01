@@ -1,0 +1,66 @@
+{
+  "company": "Zebra",
+  "timestamp": "2025-07-31 10:52:21",
+  "source_url": "https://zebra.eightfold.ai/careers?location=India&pid=343627635632&domain=zebra.com&sort_by=relevance",
+  "configuration": {
+    "company": "Zebra",
+    "url": "https://zebra.eightfold.ai/careers?location=India&pid=343627635632&domain=zebra.com&sort_by=relevance",
+    "job_card": ".job-card-container.list",
+    "title": "h3",
+    "click_target": ".job-card-container.list",
+    "location": ".stack-module_stack__LqslD.stack-module_horizontal__m-79-.stack-module_xxs__ydvYL",
+    "posted_selector": "div[data-automation-id='postedOn']",
+    "pagination_selector": "button.btn.btn-sm.btn-secondary.show-more-positions",
+    "pagination_type": "Load_more",
+    "detail_selectors": {
+      "title": [
+        "h1",
+        ".job-title",
+        "[class*='title']"
+      ],
+      "description": [
+        ".position-job-description",
+        ".job-description",
+        "[class*='description']"
+      ],
+      "requirements": [
+        ".qualifications",
+        "[class*='requirement']",
+        "[class*='qualification']"
+      ],
+      "location": [
+        ".location",
+        "[class*='location']"
+      ],
+      "employment_type": [
+        ".employment-type",
+        "[class*='employment']"
+      ],
+      "posted_date": [
+        ".posted-date",
+        "[class*='date']"
+      ],
+      "department": [
+        ".department",
+        "[class*='team']"
+      ],
+      "experience_level": [
+        ".experience-level",
+        "[class*='level']"
+      ]
+    }
+  },
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "title": "Software Engineer I (IN), Senior (Cloud)",
+      "location": "Bangalore, India",
+      "posted_date": "N/A",
+      "apply_link": "N/A",
+      "company": "Zebra",
+      "scraped_at": "2025-07-31 10:52:20",
+      "page_number": 1,
+      "source_url": "https://zebra.eightfold.ai/careers?location=India&pid=343627635632&domain=zebra.com&sort_by=relevance"
+    }
+  ]
+}

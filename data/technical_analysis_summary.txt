@@ -1,0 +1,88 @@
+================================================================================
+JOB TECHNICAL CLASSIFICATION ANALYSIS REPORT
+================================================================================
+Generated on: 2025-07-21 13:01:30
+Total jobs analyzed: 20,860
+
+1. OVERALL TECHNICAL VS NON-TECHNICAL DISTRIBUTION
+------------------------------------------------------------
+Technical.....................   16,811 ( 80.6%)
+Non-Technical.................    4,049 ( 19.4%)
+
+2. ANALYSIS BY JOB CATEGORY
+------------------------------------------------------------
+Category                  Total    Technical  Non-Tech   Tech %  
+------------------------------------------------------------
+Software Development      10779    10779      0          100.0  %
+Management/Leadership     2034     1424       610        70.0   %
+Data Science/Analytics    1285     1246       39         97.0   %
+Finance/Accounting        1178     110        1068       9.3    %
+DevOps/Infrastructure     933      933        0          100.0  %
+Operations                786      56         730        7.1    %
+Quality Assurance         638      635        3          99.5   %
+Consulting                590      279        311        47.3   %
+Cybersecurity             415      414        1          99.8   %
+Other                     415      208        207        50.1   %
+Design/UX                 348      319        29         91.7   %
+Customer Success/Support  285      177        108        62.1   %
+HR/Recruiting             278      5          273        1.8    %
+Legal/Compliance          194      6          188        3.1    %
+Product Management        172      40         132        23.3   %
+Research                  153      129        24         84.3   %
+Marketing                 151      34         117        22.5   %
+Sales                     138      13         125        9.4    %
+Administrative            36       1          35         2.8    %
+Healthcare                35       2          33         5.7    %
+Education                 17       1          16         5.9    %
+
+3. ANALYSIS BY COMPANY (Top 15)
+------------------------------------------------------------
+Company              Total    Technical  Non-Tech   Tech %  
+------------------------------------------------------------
+Accenture            10008    9018       990        90.1   %
+Goldman Sachs        1702     644        1058       37.8   %
+IBM                  1691     1250       441        73.9   %
+Amazon               1310     1228       82         93.7   %
+Citi Bank            1197     746        451        62.3   %
+JP Morgan            697      355        342        50.9   %
+NTT Data             622      418        204        67.2   %
+United Health Group  379      335        44         88.4   %
+Google               321      282        39         87.9   %
+Morgan Stanley       298      296        2          99.3   %
+Synopsys             291      279        12         95.9   %
+Nokia                249      221        28         88.8   %
+SAP                  195      155        40         79.5   %
+Pega                 182      24         158        13.2   %
+Mastercard           174      172        2          98.9   %
+
+4. MOST TECHNICAL CATEGORIES (>80% Technical Jobs)
+------------------------------------------------------------
+Software Development            100.0% (10779 jobs)
+DevOps/Infrastructure           100.0% (933 jobs)
+Cybersecurity                    99.8% (415 jobs)
+Quality Assurance                99.5% (638 jobs)
+Data Science/Analytics           97.0% (1285 jobs)
+Design/UX                        91.7% (348 jobs)
+Research                         84.3% (153 jobs)
+
+5. MOST NON-TECHNICAL CATEGORIES (>50% Non-Technical Jobs)
+------------------------------------------------------------
+HR/Recruiting                    98.2% (278 jobs)
+Administrative                   97.2% (36 jobs)
+Legal/Compliance                 96.9% (194 jobs)
+Healthcare                       94.3% (35 jobs)
+Education                        94.1% (17 jobs)
+Operations                       92.9% (786 jobs)
+Finance/Accounting               90.7% (1178 jobs)
+Sales                            90.6% (138 jobs)
+Marketing                        77.5% (151 jobs)
+Product Management               76.7% (172 jobs)
+Consulting                       52.7% (590 jobs)
+
+6. KEY INSIGHTS
+------------------------------------------------------------
+• Most common technical category: Software Development (10779 jobs)
+• Most common non-technical category: Finance/Accounting (1068 jobs)
+• Company with most technical jobs: Accenture (9018 jobs)
+
+================================================================================

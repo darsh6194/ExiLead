@@ -1,0 +1,58 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-31T15:49:45.342181",
+    "session_id": "session_20250731_154945",
+    "status": "completed",
+    "total_companies": 1,
+    "completed_companies": 0,
+    "successful_companies": 0,
+    "total_jobs_scraped": 0,
+    "end_time": "2025-07-31T15:50:09.081875",
+    "total_duration_seconds": 23.739694,
+    "session_statistics": {
+      "total_job_cards_found": 0,
+      "total_skipped_duplicates": 0,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 0,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Qualcomm": {
+      "company": "Qualcomm",
+      "url": "https://careers.qualcomm.com/careers?location=India",
+      "status": "completed",
+      "start_time": "2025-07-31T15:49:46.437043",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "Load_more"
+      },
+      "timing": {
+        "navigation": 6.732743699999999,
+        "cookie_handling": 2.2442479,
+        "page_load": 4.4884958,
+        "extraction": 8.9769916,
+        "total": 22.442479
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 0,
+        "skipped_duplicates": 0,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 0,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false,
+        "special_case_used": true
+      },
+      "end_time": "2025-07-31T15:50:08.879522"
+    }
+  }
+}

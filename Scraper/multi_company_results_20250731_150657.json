@@ -1,0 +1,192 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-31T15:06:57.795794",
+    "session_id": "session_20250731_150657",
+    "status": "completed",
+    "total_companies": 1,
+    "completed_companies": 0,
+    "successful_companies": 0,
+    "total_jobs_scraped": 4,
+    "end_time": "2025-07-31T15:10:44.880040",
+    "total_duration_seconds": 227.084246,
+    "session_statistics": {
+      "total_job_cards_found": 4,
+      "total_skipped_duplicates": 0,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 4,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Qualcomm": {
+      "company": "Qualcomm",
+      "url": "https://careers.qualcomm.com/careers?location=India",
+      "status": "completed",
+      "start_time": "2025-07-31T15:06:58.673506",
+      "jobs": [
+        {
+          "title": "Systems Engineer",
+          "company": "Qualcomm",
+          "location": "Bangalore, Karnataka, India",
+          "posted_date": "07/23/2025",
+          "apply_link": "https://careers.qualcomm.com/careers?location=India&pid=446707011114&domain=qualcomm.com&sort_by=relevance#apply",
+          "description": "Research, design, develop, simulate, and/or validate systems-level software, hardware, architecture, algorithms, and solutions that enables the development of cutting-edge technology. Collaborate across functional teams to meet and exceed system-level requirements and standards.",
+          "job_details_info": "LeadershipRole-CRD Bangalore, Karnataka, India Apply Now Add to Job Cart ID: 3078513 Job DescriptionJob Posting Date2025-07-23Company:Qualcomm India Private LimitedJob Area:Engineering Group, Engineering Group > Systems EngineeringGeneral Summary:As a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all. As a Qualcomm Systems Engineer, you will research, design, develop, simulate, and/or validate systems-level software, hardware, architecture, algorithms, and solutions that enables the development of cutting-edge technology. Qualcomm Systems Engineers collaborate across functional teams to meet and exceed system-level requirements and standards.Minimum Qualifications:• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 8+ years of Systems Engineering or related work experience. ORMaster's degree in Engineering, Information Systems, Computer Science, or related field and 7+ years of Systems Engineering or related work experience. ORPhD in Engineering, Information Systems, Computer Science, or related field and 6+ years of Systems Engineering or related work experience.Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.If you would like more information about this role, please contact Qualcomm Careers. Get MatchedUpload your resume and see jobs that match your skills and experienceUpload Your ResumeMatch UnknownJob InsightsBased on previously hired candidatesPopular Skills of Previous Hires Communications Engineering Years of Experience of previous hires<2 - 0%0.000002-4 - 0%0.000004-8 - 50%1.000008+ - 50%1.00000Job titles of previous hires Senior Engineer Staff Design Engineer Systems Engineer Design Engineer Engineering Manager Previous hires also worked at REMEC Manpower Intel Other Similar Jobs CPU RTL Design Engineer- StaffBangalore, Karnataka, IndiaHardware EngineeringChipset Systems ArchitectBangalore, Karnataka, IndiaSystems EngineeringSenior/Staff CPU DV Design Automation EngineerBangalore, Karnataka, IndiaHardware Engineering GPU Design Functional Verification Sr Lead EngineerBangalore, Karnataka, IndiaHardware EngineeringGPU Physical Design EngineerBangalore, Karnataka, IndiaHardware EngineeringAI Orchestration Developer - Machine Learning GroupBangalore, Karnataka, IndiaSoftware Engineering CPU Physical Design CAD EngineerBangalore, Karnataka, IndiaHardware EngineeringCPU Physical Design Verification(PDV) Engineer, StaffBangalore, Karnataka, IndiaHardware EngineeringCPU Physical Design EngineerBangalore, Karnataka, IndiaHardware Engineering Slide 1 of 3Recommended Videos for you At Qualcomm, career opportunities are limitless At Qualcomm, opportunities for our employees are limitless. They turn challenges into technological breakthroughs with their inventiveness, passion, a... Go to the Edge of Possible with Qualcomm on-device AI Learn more about Edge of Possible: https://www.qualcomm.com/edgeofpossible Qualcomm on-device AI brings intelligent computing everywhere. See how Qua... Qualcomm AI Research: Passionate Execution Qualcomm keeps our AI research philosophy simple: we bring the best AI researchers and AI engineers together to collaborate on AI innovation and solve... Qualcomm AI Research: Purposeful Innovation Qualcomm has spent the past decade conducting AI research to make AI more power-efficient and ubiquitous across industries. Power efficiency is impera... Slide 1 of 4Recommended Articles for You Why Qualcomm is the true leader in 5G – a story of f...Qualcomm's foundational inventions have been at the center of the 3G and 4G standards, and... Meet Vanitha Kumar, the Qualcomm inventor whose w...Q&A with Qualcomm Senior Vice President Vanitha Kumar about working on LTE, how SW... Snapdragon Compute platforms are leading the way ...Our teams have been working closely with school leaders across the country, discussing access... Slide 1 of 1Perks and Benefits Health Qualcomm offers a world-class health benefit option providing world-class coverage to employees and their eligible dependents. Wealth Our programs are designed to help employees build and prepare for a financially secure future. Self Our self and family resources help you build emotional/mental strength and resilience, as well as define your purpose — in life and at work. Wellbeing Qualcomm’s wellbeing programs and resources offer support to help employees Live+Well and Work+Well, so they can unlock their full potential at home, at work, and everywhere between.Unlock Your Limitless Potential with QualcommWhether you’re launching a new career or ready to explore what’s next in the evolution of your talent and expertise, you’re about to embark on a career growth journey like no other. Bring out your best, with the bestOur employees make Qualcomm’s success possible. We hire the brightest minds and foster a supportive, inclusive culture where your ideas have the power to contribute to world-changing innovations and breakthrough technologies. To make that possible, we leverage the breadth and depth of our diverse expertise from around the world to answer the unasked, conquer the complex, and solve some of the biggest challenges only we can – together. Innovate with technology expertsAt Qualcomm, we are passionate about the limitless potential of your career. Only here can you work alongside some of the most respected, leading engineering and technology experts in the industry – helping you learn and grow professionally in ways you haven’t yet imagined. Live well, work wellAdditionally, you’ll have access to programs such as our continuous learning and development programs, tuition reimbursement, and mentorships to tap into your limitless potential – plus, opportunities to enhance your quality of life through our comprehensive, best-in-class benefits offerings. The work we do at Qualcomm impacts lives around the globe – and you can be part of it. Apply today and unlock your full potential.",
+          "source_url": "https://careers.qualcomm.com/careers?location=India",
+          "scraped_at": "2025-07-31 15:08:40",
+          "requirements": [
+            "Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 8+ years of Systems Engineering or related work experience.",
+            "Master's degree in Engineering, Information Systems, Computer Science, or related field and 7+ years of Systems Engineering or related work experience.",
+            "PhD in Engineering, Information Systems, Computer Science, or related field and 6+ years of Systems Engineering or related work experience."
+          ],
+          "employment_type": null,
+          "remote_work": null,
+          "salary": null,
+          "experience_level": "Mid",
+          "department": "Engineering Group",
+          "benefits": [
+            "Health",
+            "Wealth",
+            "Self",
+            "Wellbeing",
+            "Continuous learning and development programs",
+            "Tuition reimbursement",
+            "Mentorships"
+          ],
+          "skills": [
+            "Systems Engineering",
+            "Software",
+            "Hardware",
+            "Architecture",
+            "Algorithms"
+          ],
+          "deadline": null,
+          "job_id": "3078513",
+          "experience": "6+ years",
+          "preferred_qualifications": [],
+          "responsibilities": [
+            "Research",
+            "Design",
+            "Develop",
+            "Simulate",
+            "Validate systems-level software",
+            "Validate systems-level hardware",
+            "Validate systems-level architecture",
+            "Validate algorithms",
+            "Validate solutions"
+          ],
+          "tags": [
+            "Engineering",
+            "Systems Engineering",
+            "Software Engineering",
+            "Hardware Engineering"
+          ]
+        },
+        {
+          "title": null,
+          "company": "Qualcomm",
+          "location": null,
+          "posted_date": null,
+          "apply_link": "https://careers.qualcomm.com/careers?location=India&pid=446706968797&domain=qualcomm.com&sort_by=relevance#apply",
+          "description": null,
+          "job_details_info": "Error: Page.wait_for_selector: Timeout 10000ms exceeded. Call log: - waiting for locator(\".position-full-card\") to be visible",
+          "source_url": "https://careers.qualcomm.com/careers?location=India",
+          "scraped_at": "2025-07-31 15:08:55",
+          "requirements": [],
+          "employment_type": null,
+          "remote_work": null,
+          "salary": null,
+          "experience_level": null,
+          "department": null,
+          "benefits": [],
+          "skills": [],
+          "deadline": null,
+          "job_id": "446706968797",
+          "experience": null,
+          "preferred_qualifications": [],
+          "responsibilities": [],
+          "tags": []
+        },
+        {
+          "title": null,
+          "company": "Qualcomm",
+          "location": null,
+          "posted_date": null,
+          "apply_link": null,
+          "description": null,
+          "job_details_info": "Error: Page.wait_for_selector: Timeout 10000ms exceeded. Call log: - waiting for locator(\".position-full-card\") to be visible",
+          "source_url": "https://careers.qualcomm.com/careers?location=India",
+          "scraped_at": "2025-07-31 15:09:12",
+          "requirements": [],
+          "employment_type": null,
+          "remote_work": null,
+          "salary": null,
+          "experience_level": null,
+          "department": null,
+          "benefits": [],
+          "skills": [],
+          "deadline": null,
+          "job_id": null,
+          "experience": null,
+          "preferred_qualifications": [],
+          "responsibilities": [],
+          "tags": []
+        },
+        {
+          "title": null,
+          "company": "Qualcomm",
+          "location": null,
+          "posted_date": null,
+          "apply_link": "https://careers.qualcomm.com/careers?location=India&pid=446706880798&domain=qualcomm.com&sort_by=relevance#apply",
+          "description": null,
+          "job_details_info": "Container not found",
+          "source_url": "https://careers.qualcomm.com/careers?location=India",
+          "scraped_at": "2025-07-31 15:10:08",
+          "requirements": [],
+          "employment_type": null,
+          "remote_work": null,
+          "salary": null,
+          "experience_level": null,
+          "department": null,
+          "benefits": [],
+          "skills": [],
+          "deadline": null,
+          "job_id": "446706880798",
+          "experience": null,
+          "preferred_qualifications": [],
+          "responsibilities": [],
+          "tags": []
+        }
+      ],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 4,
+        "successful_jobs": 4,
+        "failed_jobs": 0,
+        "pagination_type": "Load_more"
+      },
+      "timing": {
+        "navigation": 67.82442689999999,
+        "cookie_handling": 22.6081423,
+        "page_load": 45.2162846,
+        "extraction": 90.4325692,
+        "total": 226.081423
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 4,
+        "skipped_duplicates": 0,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 4,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false,
+        "special_case_used": true
+      },
+      "end_time": "2025-07-31T15:10:44.754929"
+    }
+  }
+}

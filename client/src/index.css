@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 98%);
+  --foreground: hsl(240, 10%, 3.9%);
+  --muted: hsl(210, 40%, 95%);
+  --muted-foreground: hsl(215.4, 16.3%, 46.9%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(240, 10%, 3.9%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(240, 10%, 3.9%);
+  --border: hsl(214.3, 31.8%, 89%);
+  --input: hsl(214.3, 31.8%, 91.4%);
+  --primary: hsl(221.2, 83.2%, 53.3%);
+  --primary-foreground: hsl(210, 40%, 98%);
+  --secondary: hsl(210, 40%, 94%);
+  --secondary-foreground: hsl(222.2, 84%, 4.9%);
+  --accent: hsl(210, 40%, 94%);
+  --accent-foreground: hsl(222.2, 84%, 4.9%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(210, 40%, 98%);
+  --ring: hsl(221.2, 83.2%, 53.3%);
+  --radius: 0.75rem;
+  
+  /* Google-inspired colors */
+  --google-blue: hsl(217, 89%, 61%);
+  --google-blue-light: hsl(217, 89%, 70%);
+  --google-green: hsl(142, 71%, 45%);
+  --google-red: hsl(4, 90%, 58%);
+  --google-gray: hsl(210, 11%, 42%);
+  --google-dark: hsl(210, 11%, 15%);
+}
+
+.dark {
+  --background: hsl(240, 10%, 3.9%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(240, 10%, 3.9%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(240, 10%, 3.9%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(240, 3.7%, 15.9%);
+  --input: hsl(240, 3.7%, 15.9%);
+  --primary: hsl(221.2, 83.2%, 53.3%);
+  --primary-foreground: hsl(210, 40%, 98%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  
+  /* Google-inspired colors for dark mode */
+  --google-blue: hsl(217, 89%, 61%);
+  --google-blue-light: hsl(217, 89%, 70%);
+  --google-green: hsl(142, 71%, 45%);
+  --google-red: hsl(4, 90%, 58%);
+  --google-gray: hsl(210, 11%, 71%);
+  --google-dark: hsl(0, 0%, 98%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Only apply transitions when theme is actually changing */
+  .theme-transitioning * {
+    transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+                border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+                color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  }
+
+  /* Ensure smooth transition for the root element */
+  .theme-transitioning {
+    transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  }
+}
+
+@layer utilities {
+  .google-blue {
+    color: var(--google-blue);
+  }
+  
+  .bg-google-blue {
+    background-color: var(--google-blue);
+  }
+  
+  .border-google-blue {
+    border-color: var(--google-blue);
+  }
+  
+  .hover\:bg-google-blue-light:hover {
+    background-color: var(--google-blue-light);
+  }
+  
+  .text-google-gray {
+    color: var(--google-gray);
+    font-weight: 400;
+  }
+  
+  .text-google-dark {
+    color: var(--google-dark);
+    font-weight: 400;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out;
+  }
+  
+  .animate-skeleton {
+    animation: skeleton 1.5s ease-in-out infinite;
+  }
+}
+
+/* Override default font weights for smoother appearance */
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+  }
+  
+  .font-medium {
+    font-weight: 400;
+  }
+  
+  .font-semibold {
+    font-weight: 500;
+  }
+  
+  .font-bold {
+    font-weight: 600;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { 
+    transform: translateY(20px); 
+    opacity: 0; 
+  }
+  to { 
+    transform: translateY(0); 
+    opacity: 1; 
+  }
+}
+
+@keyframes skeleton {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}

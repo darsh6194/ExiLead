@@ -1,0 +1,1523 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-29T16:48:29.593869",
+    "session_id": "session_20250729_164829",
+    "status": "completed",
+    "total_companies": 48,
+    "completed_companies": 1,
+    "successful_companies": 1,
+    "total_jobs_scraped": 4,
+    "end_time": "2025-07-29T16:50:56.241781",
+    "total_duration_seconds": 146.647912,
+    "session_statistics": {
+      "total_job_cards_found": 10,
+      "total_skipped_duplicates": 2,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 4,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Amazon": {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+      "status": "success",
+      "start_time": "2025-07-29T16:48:30.762119",
+      "jobs": [
+        {
+          "title": "Risk Manager (2LoD), Risk and Compliance Solutions",
+          "company": "Amazon",
+          "location": "Bengaluru, KA, IND",
+          "posted_date": "07/29/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3046675/risk-manager-2lod-risk-and-compliance-solutions",
+          "experience": "6+ years",
+          "job_id": "3046675",
+          "department": "Business Intelligence",
+          "employment_type": null,
+          "experience_level": "Mid-Senior",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "We are seeking a highly motivated Model Risk Manager for Amazon’s Payments Risk organization, who will assist in implementing the model risk management framework, support model risk governance activities, and perform independent model validation. In this role, you will be responsible for working with a range of stakeholders including Legal, Compliance Tech, Operations, 1LoD Risk, and business teams to develop a detailed understanding of models that drive critical decisions, validate models, and influence the business to mitigate and manage model risks.",
+          "requirements": [
+            "A Bachelor’s Degree or above in Financial Engineering, Financial Mathematics, Mathematics, Statistics or Computer Science major preferred.",
+            "6+ years of building, testing, implementing and validating models in a financial services technology, payments, merchant/acquiring, audit/consulting, business software, retail or online services company (preferably AI/ML models)",
+            "Knowledge of SQL and Big Data technologies like Hadoop or similar",
+            "Experience developing pricing and risk models using Python, R or C++ is a plus.",
+            "Experience in designing and implementing new model risk management programs or processes from the ground up.",
+            "Excellent written and spoken communication skill",
+            "Knowledge of data management fundamentals and data storage principles"
+          ],
+          "preferred_qualifications": [
+            "Strong analytical and quantitative skills to understand and validate models effectively",
+            "Ability to effectively communicate in written and verbal form across functional groups within the company, with Clients, Customers and Vendors, as well as Senior Management.",
+            "Experience with big data: extraction, processing, filtering, and presenting large data quantities via AWS technologies, SQL, and data pipelines",
+            "Ability to manage through influence",
+            "Master's degree"
+          ],
+          "responsibilities": [
+            "Drive vision and execution of tactical elements of governance and compliance activities for AI and machine learning (ML) risk models.",
+            "Assist in managing AI/ML risk management processes in alignment with regulatory requirements.",
+            "Work with stakeholders and team members to ensure requisite activities associated with AI/ML regulatory guidance occur.",
+            "Work with team members and leadership to prepare content and facilitate key stakeholder and working group meetings.",
+            "Work with key stakeholders to ensure requisite activities within the enterprise AI/ML Risk Management Standard occur",
+            "Work with key stakeholders on identifying heightened risks, controls, and value of prospective Al/ML use cases.",
+            "Work with Enterprise Architecture and data scientists to create and sustain a comprehensive Al/ML use intake process.",
+            "Maintain the comprehensive inventory of Al/ML use cases, evidence of review and approval, and associated documentation.",
+            "Partner with other functions (e.g., Legal, Compliance) on requisite review and effective challenge of new Al/ML use cases.",
+            "Partner with subject-matter-experts and strategic leaders to ensure execution of requisite control activities as articulated in the enterprise Al/ML strategy.",
+            "Work with internal stakeholders to develop and deliver training content and socialization about AI/ML risk processes and controls",
+            "Creating and overseeing the model risk management policy, independent governance of model risk, and validating and performing model validation.",
+            "Working with the operations teams and Boards to drive models that effectively mitigate the risks to our sellers and buyers and meet regulatory requirements and mitigate financial crime, operational, financial, strategic, and customer risk."
+          ],
+          "benefits": [
+            "Inclusive team culture",
+            "Work life harmony",
+            "Mentorship",
+            "Career growth"
+          ],
+          "skills": [
+            "SQL",
+            "Big Data",
+            "Hadoop",
+            "Python",
+            "R",
+            "C++",
+            "AI",
+            "ML"
+          ],
+          "tags": [
+            "Risk Management",
+            "Compliance",
+            "Financial Engineering",
+            "Model Risk",
+            "AI",
+            "ML",
+            "Payments",
+            "Financial Services"
+          ],
+          "scraped_at": "2025-07-29T16:48:51.585108",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Risk Manager (2LoD), Risk and Compliance Solutions - Job ID: 3046675 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Risk Manager (2LoD), Risk and Compliance Solutions\nJob ID: 3046675 | ADCI - BLR 14 SEZ\nApply now\n## DESCRIPTION\nWe are seeking a highly motivated Model Risk Manager for Amazon’s Payments Risk organization, who will assist in implementing the model risk management framework, support model risk governance activities, and perform independent model validation. In this highly visible role, you will also be responsible for working with a range of stakeholders including Legal, Compliance Tech, Operations,1LoD Risk, and business teams to develop a detailed understanding of models that drive critical decisions, validate models, and influence the business to mitigate and manage model risks.  \n  \nKey job responsibilities  \n• Drive vision and execution of tactical elements of governance and compliance activities for AI and machine learning (ML) risk models.  \n• Assist in managing AI/ML risk management processes in alignment with regulatory requirements.  \n• Work with stakeholders and team members to ensure requisite activities associated with AI/ML regulatory guidance occur.  \n• Work with team members and leadership to prepare content and facilitate key stakeholder and working group meetings.  \n• Work with key stakeholders to ensure requisite activities within the enterprise AI/ML Risk Management Standard occur  \n• Work with key stakeholders on identifying heightened risks, controls, and value of prospective Al/ML use cases.  \n• Work with Enterprise Architecture and data scientists to create and sustain a comprehensive Al/ML use intake process.  \n• Maintain the comprehensive inventory of Al/ML use cases, evidence of review and approval, and associated documentation.  \n• Partner with other functions (e.g., Legal, Compliance) on requisite review and effective challenge of new Al/ML use cases.  \n• Partner with subject-matter-experts and strategic leaders to ensure execution of requisite control activities as articulated in the enterprise Al/ML strategy.  \n• Work with internal stakeholders to develop and deliver training content and socialization about AI/ML risk processes and controls  \n  \nA day in the life  \nYou will serve as the primary subject matter expert for creating and overseeing the model risk management policy, independent governance of model risk, and validating and performing model validation. Your role will include working with the operations teams and Boards to drive models that effectively mitigate the risks to our sellers and buyers and meet regulatory requirements and mitigate financial crime, operational, financial, strategic, and customer risk. As you do this, you'll be working within a global team of risk and compliance 2LoD Amazonians across the globe.  \n  \nAbout the team  \nYou will join a small global team of 15+ different nationalities and diverse experience from different sectors, where we value inclusive team culture, work life harmony, mentorship, and career growth.\n## BASIC QUALIFICATIONS\n- A Bachelor’s Degree or above in Financial Engineering, Financial Mathematics, Mathematics, Statistics or Computer Science major preferred.  \n- 6+ years of building, testing, implementing and validating models in a financial services technology, payments, merchant/acquiring, audit/consulting, business software, retail or online services company (preferably AI/ML models)  \n- Knowledge of SQL and Big Data technologies like Hadoop or similar  \n- Experience developing pricing and risk models using Python, R or C++ is a plus.  \n- Experience in designing and implementing new model risk management programs or processes from the ground up.  \n- Excellent written and spoken communication skill  \n- Knowledge of data management fundamentals and data storage principles\n## PREFERRED QUALIFICATIONS\n- Strong analytical and quantitative skills to understand and validate models effectively  \n- Ability to effectively communicate in written and verbal form across functional groups within the company, with Clients, Customers and Vendors, as well as Senior Management.  \n- Experience with big data: extraction, processing, filtering, and presenting large data quantities via AWS technologies, SQL, and data pipelines  \n- Ability to manage through influence  \n- Master's degree  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bengaluru\n  * Business Intelligence\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Risk Analyst, Buyer Risk Prevention, Payment Risk Mining",
+          "company": "Amazon",
+          "location": "Hyderabad, TS, IND",
+          "posted_date": "07/29/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3046681/risk-analyst-buyer-risk-prevention-payment-risk-mining",
+          "experience": "1+ years",
+          "job_id": "3046681",
+          "department": "Buyer Risk Prevention (BRP)",
+          "employment_type": null,
+          "experience_level": "Entry",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "Analyze data to identify risk instances and trends, develop fraud prevention solutions, and build operational metrics to determine improvement opportunities.",
+          "requirements": [
+            "1+ years of experience in financial/business analysis",
+            "Experience with SQL/ETL and Python",
+            "Experience defining requirements and using data and metrics to draw business insights"
+          ],
+          "preferred_qualifications": [
+            "Bachelor’s or Master's Degree in any quantitative discipline such as Statistics, Mathematics or Economics",
+            "Proven experience in working with large scale databases and SQL in a business environment",
+            "Demonstrated experience using scripting languages like Python",
+            "Hands-on experience applying machine learning algorithms and statistical methods in a business environment"
+          ],
+          "responsibilities": [
+            "Perform complex data analysis to proactively generate actionable insights",
+            "Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. within SQL and other BI tools",
+            "Design and implement various visual dashboards in order to make insights available to team members, stakeholders and our customers",
+            "Support cross-functional teams on the day-to-day execution of projects and initiatives",
+            "Enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format",
+            "Preparing and delivering business reviews to the senior management team regarding progress and roadblocks",
+            "Communicate complex analysis and insights to stakeholders and business leaders, both verbally and in writing",
+            "Review instances of fraud and create mechanisms to stop them",
+            "Report on fraud trends and improve products",
+            "Create and maintain dashboards that detect and inform stakeholders (such as payment product owners) on how to stop fraud"
+          ],
+          "benefits": [],
+          "skills": [
+            "SQL",
+            "ETL",
+            "Python",
+            "Data Analysis",
+            "Business Analysis",
+            "Machine Learning",
+            "Statistical Methods"
+          ],
+          "tags": [
+            "Risk Analyst",
+            "Buyer Risk Prevention",
+            "Payment Risk Mining",
+            "Business Intelligence",
+            "Financial Analysis",
+            "Data Analysis"
+          ],
+          "scraped_at": "2025-07-29T16:49:01.598970",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Risk Analyst, Buyer Risk Prevention, Payment Risk Mining - Job ID: 3046681 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Risk Analyst, Buyer Risk Prevention, Payment Risk Mining\nJob ID: 3046681 | ADCI HYD 20 SEZ\nApply now\n## DESCRIPTION\nHave you ever thought about what it takes to detect and prevent fraudulent activity in hundreds of millions of eCommerce transactions across the globe? What would you do to increase trust in an online marketplace where millions of buyers and sellers transact? How would you build systems that evolve over time to proactively identify and neutralize new and emerging fraud threats?  \n  \nOur mission in Buyer Risk Prevention (BRP) is to make Amazon.com the safest place to transact online. BRP safeguards every financial transaction across all Amazon sites, while striving to ensure that these efforts are transparent to our legitimate customers. As such, BRP designs and builds the software systems, risk models and operational processes that minimize risk and maximize trust in Amazon.com.  \n  \nAs a Risk Analyst in BRP, you will be responsible for analyzing terabytes of data to identify specific instances of risk, broader risk trends and points of customer friction. You will develop scalable solutions for fraud prevention. In addition, you will be responsible for building a robust set of operational and business metrics and will utilize metrics to determine improvement opportunities.  \n  \nKey job responsibilities  \nPerform complex data analysis to proactively generate actionable insights  \n  \nOwn the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. within SQL and other BI tools  \n  \nDesign and implement various visual dashboards in order to make insights available to team members, stakeholders and our customers  \n  \nSupport cross-functional teams on the day-to-day execution of projects and initiatives  \n  \nEnable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format  \n  \nPreparing and delivering business reviews to the senior management team regarding progress and roadblocks  \n  \nCommunicate complex analysis and insights to stakeholders and business leaders, both verbally and in writing  \n  \nA day in the life  \n1. Review instances of fraud and create mechanisms to stop them  \n2. Report on fraud trends and improve products  \n3. Create and maintain dashboards that detect and inform stakeholders (such as payment product owners) on how to stop fraud  \n  \nAbout the team  \nOur team consists of Business Analysts, Data Scientists, Business Intelligence Engineers and Applied Scientist rolling under the core Buyer Risk Prevention Machine Learning Team. We evaluate instances of organized buyer fraud attacks on Amazon platform WW across various payment methods. We collaborate closely across multiple functions in order to mitigate these attacks through various short and long term solutions.\n## BASIC QUALIFICATIONS\n1. 1+ years of experience in financial/business analysis   \n2. Experience with SQL/ETL and Python  \n3. Experience defining requirements and using data and metrics to draw business insights\n## PREFERRED QUALIFICATIONS\n1. Bachelor’s or Master's Degree in any quantitative discipline such as Statistics, Mathematics or Economics 2. Proven experience in working with large scale databases and SQL in a business environment   \n3. Demonstrated experience using scripting languages like Python  \n4. Hands-on experience applying machine learning algorithms and statistical methods in a business environment  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, TS, Hyderabad\n  * Business Intelligence\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Quality Assurance Engineer, GEET QA",
+          "company": "Amazon",
+          "location": "Bangalore, KA, IND",
+          "posted_date": "07/29/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3046677/quality-assurance-engineer-geet-qa",
+          "experience": "N/A",
+          "job_id": "3046677",
+          "department": "GEET (Grocery and Everyday Essentials Tech) QA",
+          "employment_type": null,
+          "experience_level": "Entry",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "GEET QA team is looking for QAEs who are passionate about testing and breaking Web Software. The candidate must have the skills to identify software bugs quickly, describe the bugs, creating a traceability matrix for large projects, analysing a code change and identifying the right set of test cases to run, etc.",
+          "requirements": [
+            "Experience in Test Planning and Execution"
+          ],
+          "preferred_qualifications": [
+            "MShop Testing"
+          ],
+          "responsibilities": [
+            "Create test plans, write test cases for new features.",
+            "Regression test and sign off on various partner team testing requests.",
+            "Be the Customer Representative and advocate for them in Bug Triage and other meetings.",
+            "Build Domain Knowledge and understanding of the Product under test.",
+            "Regularly communicate testing status and identify risks to Program launch dates.",
+            "Follow SOPs, identify gaps, outdated information and update it.",
+            "Perform manual testing of services and UI features on desktop browsers, mobile browsers and mobile shopping application",
+            "Own end-to-end testing of various customer-facing features.",
+            "Write test plan, review it with stakeholders.",
+            "Own test execution, Bug Triage, QA Status communication.",
+            "Develop deep understanding of the program and have opportunity to understand how various Systems at Amazon work.",
+            "Work with Operations teams to execute specific test scenarios.",
+            "Drive User Acceptance Testing (UAT)",
+            "Update our regression test suite with relevant set of test cases"
+          ],
+          "benefits": [],
+          "skills": [
+            "Test Planning",
+            "Test Execution",
+            "Web Software Testing",
+            "Bug Identification",
+            "Test Case Creation",
+            "Regression Testing",
+            "Manual Testing"
+          ],
+          "tags": [
+            "Quality Assurance",
+            "Testing",
+            "Software Engineering",
+            "GEET",
+            "Amazon"
+          ],
+          "scraped_at": "2025-07-29T16:49:12.268119",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Quality Assurance Engineer, GEET QA - Job ID: 3046677 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Quality Assurance Engineer, GEET QA \nJob ID: 3046677 | ADCI - Karnataka\nApply now\n## DESCRIPTION\nGEET (Grocery and Everyday Essentials Tech) QA team is looking for QAEs who are passionate about testing and breaking Web Software.   \n  \nThe candidate must have the skills to identify software bugs quickly, describe the bugs know concepts like testing for boundary values, creating a traceability matrix for large projects, analysing a code change and identifying the right set of test cases to run, etc.   \n  \nKey job responsibilities  \nCreate test plans, write test cases for new features.   \nRegression test and sign off on various partner team testing requests.  \nBe the Customer Representative and advocate for them in Bug Triage and other meetings.   \nBuild Domain Knowledge and understanding of the Product under test.   \nRegularly communicate testing status and identify risks to Program launch dates.  \nFollow SOPs, identify gaps, outdated information and update it.  \nPerform manual testing of services and UI features on desktop browsers, mobile browsers and mobile shopping application  \n  \nA day in the life  \nYou will own end-to-end testing of various customer-facing features. You will write test plan, review it with stakeholders. You will own test execution, Bug Triage, QA Status communication. You will develop deep understanding of the program and have opportunity to understand how various Systems at Amazon work. You will also work with Operations teams to execute specific test scenarios. You will drive User Acceptance Testing (UAT) and lastly update our regression test suite with relevant set of test cases  \n  \nAbout the team  \nThe GEET (Grocery and Everyday Essentials Tech) QA team owns end to end testing of Fresh Program (including CX and Fulfilment) , Pharmacy and Quick Commerce. \n## BASIC QUALIFICATIONS\n- Experience in Test Planning and Execution.\n## PREFERRED QUALIFICATIONS\n- MShop Testing  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bangalore\n  * Amazon.in\n  * Systems, Quality, & Security Engineering\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Quality Assurance Engineer, GEET QA",
+          "company": "Amazon",
+          "location": "Bangalore, KA, IND",
+          "posted_date": "07/29/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3046685/quality-assurance-engineer-geet-qa",
+          "experience": "N/A",
+          "job_id": "3046685",
+          "department": "GEET QA (Grocery and Everyday Essentials Tech)",
+          "employment_type": null,
+          "experience_level": null,
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "GEET (Grocery and Everyday Essentials Tech) QA team is looking for QAEs who are passionate about testing and breaking Web Software. The candidate must have the skills to identify software bugs quickly.",
+          "requirements": [
+            "Experience in Test Planning and Execution."
+          ],
+          "preferred_qualifications": [
+            "MShop Testing"
+          ],
+          "responsibilities": [
+            "Create test plans, write test cases for new features.",
+            "Regression test and sign off on various partner team testing requests.",
+            "Be the Customer Representative and advocate for them in Bug Triage and other meetings.",
+            "Build Domain Knowledge and understanding of the Product under test.",
+            "Regularly communicate testing status and identify risks to Program launch dates.",
+            "Follow SOPs, identify gaps, outdated information and update it.",
+            "Perform manual testing of services and UI features on desktop browsers, mobile browsers and mobile shopping application",
+            "Own end-to-end testing of various customer-facing features.",
+            "Own test execution, Bug Triage, QA Status communication.",
+            "Develop deep understanding of the program and have opportunity to understand how various Systems at Amazon work.",
+            "Drive User Acceptance Testing (UAT)",
+            "Update our regression test suite with relevant set of test cases"
+          ],
+          "benefits": [],
+          "skills": [
+            "Test Planning",
+            "Test Execution",
+            "Web Software Testing",
+            "Bug Identification",
+            "Test Case Creation",
+            "Regression Testing",
+            "Manual Testing"
+          ],
+          "tags": [
+            "Quality Assurance",
+            "Testing",
+            "Software Development",
+            "Systems Engineering",
+            "Security Engineering"
+          ],
+          "scraped_at": "2025-07-29T16:49:21.975106",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Quality Assurance Engineer, GEET QA - Job ID: 3046685 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Quality Assurance Engineer, GEET QA \nJob ID: 3046685 | ADCI - Karnataka\nApply now\n## DESCRIPTION\nGEET (Grocery and Everyday Essentials Tech) QA team is looking for QAEs who are passionate about testing and breaking Web Software.   \n  \nThe candidate must have the skills to identify software bugs quickly, describe the bugs know concepts like testing for boundary values, creating a traceability matrix for large projects, analysing a code change and identifying the right set of test cases to run, etc.   \n  \nKey job responsibilities  \nCreate test plans, write test cases for new features.   \nRegression test and sign off on various partner team testing requests.  \nBe the Customer Representative and advocate for them in Bug Triage and other meetings.   \nBuild Domain Knowledge and understanding of the Product under test.   \nRegularly communicate testing status and identify risks to Program launch dates.  \nFollow SOPs, identify gaps, outdated information and update it.  \nPerform manual testing of services and UI features on desktop browsers, mobile browsers and mobile shopping application  \n  \nA day in the life  \nYou will own end-to-end testing of various customer-facing features. You will write test plan, review it with stakeholders. You will own test execution, Bug Triage, QA Status communication. You will develop deep understanding of the program and have opportunity to understand how various Systems at Amazon work. You will also work with Operations teams to execute specific test scenarios. You will drive User Acceptance Testing (UAT) and lastly update our regression test suite with relevant set of test cases  \n  \nAbout the team  \nThe GEET (Grocery and Everyday Essentials Tech) QA team owns end to end testing of Fresh Program (including CX and Fulfilment) , Pharmacy and Quick Commerce. \n## BASIC QUALIFICATIONS\n- Experience in Test Planning and Execution.\n## PREFERRED QUALIFICATIONS\n- MShop Testing  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bangalore\n  * Amazon.in\n  * Systems, Quality, & Security Engineering\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        }
+      ],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 4,
+        "successful_jobs": 4,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 8.2,
+        "cookie_handling": 0,
+        "page_load": 8.2,
+        "captcha_handling": 0,
+        "total": 51.22
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 10,
+        "skipped_duplicates": 2,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 4,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false
+      },
+      "end_time": "2025-07-29T16:49:21.983986"
+    },
+    "Atlassian": {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering%2CData%2C%20Analytics%20%26%20Research%2CDesign%2CAtlassian%20Corporate%20Engineering%20%28ACE%29&location=India&search=",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:23.984542",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:23.989268"
+    },
+    "Google": {
+      "company": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&skills=Software",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:25.989973",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:25.993752"
+    },
+    "Nokia": {
+      "company": "Nokia",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=India&locationId=300000000471745&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:16.096092",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:16.099467"
+    },
+    "Apple": {
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-in/search?location=india-INDC&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+silicon-technologies-HRDWR-SILT+engineering-project-management-HRDWR-EPM+analog-and-digital-design-HRDWR-ADD",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:29.998505",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:30.001542"
+    },
+    "IBM": {
+      "company": "IBM",
+      "url": "https://www.ibm.com/in-en/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Enterprise%20Operations&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_08[3]=Data%20%26%20Analytics&field_keyword_08[4]=Design%20%26%20UX&field_keyword_08[5]=Cloud&field_keyword_05[0]=India",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:26.117574",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:26.121950"
+    },
+    "Citrix": {
+      "company": "Citrix",
+      "url": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN&dropdown_field_4_uids%5B%5D=a4417b43843293f5fa513f5f452169a7&dropdown_field_4_uids%5B%5D=77c93f5b8ab20d608fe14cc54a4b43f9&query=",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:34.008142",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:34.011211"
+    },
+    "Teradata": {
+      "company": "Teradata",
+      "url": "https://careers.teradata.com/jobs?location=India&jobCategory=3&jobCategory=16&jobCategory=18&jobCategory=8",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:36.011983",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:36.015208"
+    },
+    "Texas Instruments": {
+      "company": "Texas Instruments",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?lastSelectedFacet=CATEGORIES&location=India&locationId=300000000361484&locationLevel=country&mode=location&selectedCategoriesFacet=300000068853972%3B300000068853892",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:38.015969",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:38.019532"
+    },
+    "United Health Group": {
+      "company": "United Health Group",
+      "url": "https://careers.unitedhealthgroup.com/job-search-results/?multi_select1[]=Business%20%26%20Data%20Analytics&multi_select1[]=Research%20and%20Development&multi_select1[]=Technology&location=India&country=IN&radius=25",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:40.020610",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:40.024518"
+    },
+    "Citi Bank": {
+      "company": "Citi Bank",
+      "url": "https://jobs.citi.com/search-jobs/India/287/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:42.025340",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:42.028336"
+    },
+    "Synopsys": {
+      "company": "Synopsys",
+      "url": "https://careers.synopsys.com/search-jobs/India/44408/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:44.028800",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:44.032138"
+    },
+    "BMC": {
+      "company": "BMC",
+      "url": "https://jobs.bmc.com/Careers/SearchJobs/india?listFilterMode=1&jobRecordsPerPage=6&",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:46.032475",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:46.037364"
+    },
+    "Intuit": {
+      "company": "Intuit",
+      "url": "https://jobs.intuit.com/search-jobs/India/27595/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:48.038010",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:48.041753"
+    },
+    "Pure Storage": {
+      "company": "Pure Storage",
+      "url": "https://job-boards.greenhouse.io/purestorage?location=India&offices%5B%5D=43857&departments%5B%5D=301&departments%5B%5D=1597&departments%5B%5D=377",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:50.042321",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:50.046320"
+    },
+    "Verizon": {
+      "company": "Verizon",
+      "url": "https://mycareer.verizon.com/jobs/?search=&country=India&team=Product&team=Technology&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:52.046613",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:52.050239"
+    },
+    "Salesforce": {
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/?search=&country=India&team=Data&team=Development+%26+Strategy&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&team=User+Experience&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:54.050659",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:54.053843"
+    },
+    "Morgan Stanley": {
+      "company": "Morgan Stanley",
+      "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&location=India&pid=549783559225&sort_by=distance&filter_include_remote=1&filter_businessarea=technology%2Ctechnology+and+operations",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:56.054366",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:56.057951"
+    },
+    "NTT Data": {
+      "company": "NTT Data",
+      "url": "https://careers-inc.nttdata.com/search/?createNewAlert=false&q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-29T16:49:58.058512",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:49:58.062306"
+    },
+    "Walmart": {
+      "company": "Walmart",
+      "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal?jobFamilyGroup=e83ebdbd2a0a01ea72c2808948e924c6&jobFamilyGroup=e83ebdbd2a0a01e7e1477a8948e904c6&jobFamilyGroup=e83ebdbd2a0a01af0185848948e94dc6&jobFamilyGroup=e83ebdbd2a0a01cc71e67f8948e91ac6&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:00.063124",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:00.066131"
+    },
+    "KPMG": {
+      "company": "KPMG",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=Technology+Developer&lastSelectedFacet=LOCATIONS&location=India&locationId=300000000296042&locationLevel=country&mode=location&selectedLocationsFacet=300000000296042",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:02.066533",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:02.069590"
+    },
+    "Honeywell": {
+      "company": "Honeywell",
+      "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs?lastSelectedFacet=TITLES&location=India&locationId=300000000469485&locationLevel=country&mode=location&selectedTitlesFacet=124%3B120%3B125%3B340%3B126",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:04.070558",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:04.074548"
+    },
+    "Bank of America": {
+      "company": "Bank of America",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&start=0&rows=10&search=jobsByLocation&filters=division%3DGlobal+Technology%2Carea%3DProduct+Strategy+%26+Development%2Carea%3DTechnology&searchstring=India",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:06.075109",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:06.078833"
+    },
+    "Wells Fargo": {
+      "company": "Wells Fargo",
+      "url": "https://www.wellsfargojobs.com/en/jobs/?search=&country=India&team=Data+%26+Analytics&team=Research&team=Technology+%26+Data&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:08.079399",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:08.082650"
+    },
+    "EY": {
+      "company": "EY",
+      "url": "https://careers.ey.com/ey/search/?q=India&q2=&alertId=&locationsearch=&title=Developer&location=",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:10.083098",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:10.086163"
+    },
+    "SAP": {
+      "company": "SAP",
+      "url": "https://jobs.sap.com/search/?q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:12.086749",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:12.090967"
+    },
+    "Bosch": {
+      "company": "Bosch",
+      "url": "https://careers.smartrecruiters.com/BoschGroup/india",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:14.091702",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:14.095513"
+    },
+    "Cisco": {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:18.100005",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:18.103685"
+    },
+    "Goldman Sachs": {
+      "company": "Goldman Sachs",
+      "url": "https://higher.gs.com/results?DIVISION=Engineering%20Division&JOB_FUNCTION=Data%20Analytics|Data%20Engineering|Software%20Engineering|Technology%20Products|Learning%20%26%20Development&LOCATION=Bengaluru|Mumbai|Hyderabad&page=1&sort=RELEVANCE",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:20.104035",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:20.107683"
+    },
+    "Deloitte": {
+      "company": "Deloitte",
+      "url": "https://southasiacareers.deloitte.com/search/?q=&q2=&alertId=&locationsearch=India&title=Developer&location=&date=",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:22.108216",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:22.112447"
+    },
+    "JP Morgan": {
+      "company": "JP Morgan",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India&locationId=300000000289360&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:24.113147",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:24.117142"
+    },
+    "Target": {
+      "company": "Target",
+      "url": "https://target.wd5.myworkdayjobs.com/TargetCareers?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:28.122659",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:28.125697"
+    },
+    "Ciena": {
+      "company": "Ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers?Location_Region_State_Province=110deb52af724949bd6d2b655a3492f0&Location_Region_State_Province=a3c37012f51642f4a7b3dafc8ac37801&Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=f08e25a5d78010903df730510aefa016",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:30.126055",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:30.129469"
+    },
+    "Motorola Solutions": {
+      "company": "Motorola Solutions",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=India&jobFamilyGroup=2161bef685534428b91fad96fc9069b4&jobFamilyGroup=c3fc17b768e842e39b7192f0bf4cb0f1&jobFamilyGroup=c2197eea2758408bbbe52d2c04006230&timeType=14bb6aa2c25e4a218b2a3faaa951e44c",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:32.130047",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:32.134307"
+    },
+    "BrowserStack": {
+      "company": "BrowserStack",
+      "url": "https://browserstack.wd3.myworkdayjobs.com/External?jobFamilyGroup=0cb9174e33c9100190f156427de80000",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:34.134690",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:34.138772"
+    },
+    "3M": {
+      "company": "3M",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e937e224196b1066cb46855288e09e9c",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:36.139358",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:36.143089"
+    },
+    "Gen": {
+      "company": "Gen",
+      "url": "https://gen.wd1.myworkdayjobs.com/careers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:38.143323",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:38.146397"
+    },
+    "Intel": {
+      "company": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External?locations=1e4a4eb3adf101f44070f976bf8184cf",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:40.146849",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:40.149737"
+    },
+    "Crowdstrike": {
+      "company": "Crowdstrike",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/CrowdStrikeCareers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&Job_Family=1408861ee6e201641be2c2f6b000c00b&Job_Family=1408861ee6e20197f95adbf6b000d20b&Job_Family=cb19f044639b1001f6a02595bc920000",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:42.150132",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:42.153695"
+    },
+    "Nvidia": {
+      "company": "Nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52b82135ba3266",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:44.154766",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:44.158369"
+    },
+    "Samsung": {
+      "company": "Samsung",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers?locations=9903637af4ee10017a5e7c6741a30000&locations=0c974e8c1228010867596ab21b3c3469",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:46.158896",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:46.162348"
+    },
+    "Philips": {
+      "company": "Philips",
+      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers?locationCountry=India&locationHierarchy1=6e1b2a934716103c2adde1d57e7700ea&jobFamilyGroup=58aeacb31cc0011e54561931bd325829&jobFamilyGroup=169c3da8f7270169c0ee692fbd324709&jobFamilyGroup=94eec23a3cab01216af07777df6a8d29",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:48.162811",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:48.166226"
+    },
+    "Adobe": {
+      "company": "Adobe",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=591af8b812fa10737af39db3d96eed9f&jobFamilyGroup=591af8b812fa10737b0e880e0e3eeee9",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:50.166753",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:50.169955"
+    },
+    "Jhonson Controls": {
+      "company": "Jhonson Controls",
+      "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI?locations=59c45107aefd0100150a39cae16f0000&locations=d88b8274a28d01001508d6e41b790000&locations=8a6647241218010014dc0448de550000&locations=8a6647241218010014dbfbb6369e0000&locations=d88b8274a28d0100151240aebe770000&locations=5d89c910febd010014edfa0ce32d0000&locations=15695db1dccc010014dc9953fad00000&locations=d88b8274a28d0100150d450046450000&jobFamilyGroup=e6c5fb966d2f103b0676ec44ac856a22",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:52.170552",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:52.174623"
+    },
+    "Logitech": {
+      "company": "Logitech",
+      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e1dd9f3022da104d1ec67decab9a80a0&jobFamilyGroup=e1dd9f3022da104d1ec6875c07a280aa",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:54.174897",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:54.178193"
+    },
+    "Mastercard": {
+      "company": "Mastercard",
+      "url": "https://careers.mastercard.com/us/en/search-results",
+      "status": "failed",
+      "start_time": "2025-07-29T16:50:56.178841",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-29T16:50:56.189506"
+    }
+  }
+}

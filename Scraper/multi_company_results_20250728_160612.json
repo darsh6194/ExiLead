@@ -1,0 +1,1509 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-28T16:06:12.154722",
+    "session_id": "session_20250728_160612",
+    "status": "completed",
+    "total_companies": 49,
+    "completed_companies": 1,
+    "successful_companies": 1,
+    "total_jobs_scraped": 3,
+    "end_time": "2025-07-28T16:08:23.524080",
+    "total_duration_seconds": 131.369358,
+    "session_statistics": {
+      "total_job_cards_found": 10,
+      "total_skipped_duplicates": 6,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 3,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Amazon": {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+      "status": "success",
+      "start_time": "2025-07-28T16:06:12.893804",
+      "jobs": [
+        {
+          "title": "Software Developer Engineer II- TEST, Alexa Smart Home",
+          "company": "Amazon",
+          "location": "Bangalore, KA, IND",
+          "posted_date": "10/15/2024",
+          "apply_link": "https://www.amazon.jobs/en/jobs/2806114/software-developer-engineer-ii-test-alexa-smart-home",
+          "job_id": "2806114",
+          "department": "Alexa Smart Home",
+          "employment_type": null,
+          "experience_level": "Mid",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "Basic qualifications:2+ years of test automation frameworks and tools building experience2+ years of non-internship professional software development testing experienceExperience programming with at least one modern language such as Java, C++, or C# including object-oriented designExperience designing or supporting low-maintenance automation frameworksExperience in platform-level security mitigations and hardening for Linux and Windows",
+          "requirements": [
+            "2+ years of test automation frameworks and tools building experience",
+            "2+ years of non-internship professional software development testing experience",
+            "Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design",
+            "Experience designing or supporting low-maintenance automation frameworks",
+            "Experience in platform-level security mitigations and hardening for Linux and Windows"
+          ],
+          "preferred_qualifications": [
+            "Knowledge of overall system architecture, scalability, reliability, and performance in a database environment",
+            "Experience with security in service-oriented architectures and web services"
+          ],
+          "responsibilities": [
+            "Design and implement automated test frameworks/tools to reduce manual testing effort, and/or to assess and mitigate quality risks.",
+            "The frameworks/tools are reliable, scalable, maintainable, and easy-to-use.",
+            "Defines test metrics and automates/simplifies team development and test processes.",
+            "Mentor junior team members/QAE team members, build automation skill set and apply engineer best practice.",
+            "Work closely with developers and define test automation strategy/solution for complex/ambiguous problem.",
+            "The solutions are testable, maintainable, and efficient.",
+            "Responsible for maintaining existing automation framework, expand the current solution and implement enhancements for bi-weekly prod releases.",
+            "Responsible for designing new automation frameworks for testing Smart Home experience on multiple surfaces (Multimodal echo devices, Fire TV).",
+            "Influence partners and stakeholders by representing our end customers and raise the quality bar.",
+            "Optimize team's processes and work towards reducing operational QA costs."
+          ],
+          "benefits": [],
+          "skills": [
+            "Test automation",
+            "Java",
+            "C++",
+            "C#",
+            "Object-oriented design",
+            "Linux",
+            "Windows",
+            "Security",
+            "Automation Framework"
+          ],
+          "tags": [
+            "Software Development",
+            "Alexa Smart Home",
+            "Testing",
+            "Automation",
+            "QA"
+          ],
+          "scraped_at": "2025-07-28T16:06:25.508047",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Software Developer Engineer II- TEST, Alexa Smart Home - Job ID: 2806114 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Software Developer Engineer II- TEST, Alexa Smart Home\nJob ID: 2806114 | ADCI - Karnataka\nApply now\n## DESCRIPTION\nAlexa Smart Home team is responsible for integrating your smart home devices with Alexa and bringing your home to life! Our products complement the Alexa voice experience by giving customers quick and intuitive ways to interact with their home during moments that are more suited for touch and screen-based interactions.  \n  \nKey job responsibilities  \nIn this role, you will:  \n  \n- Design and implement automated test frameworks/tools to reduce manual testing effort, and/or to assess and mitigate quality risks. The frameworks/tools are reliable, scalable, maintainable, and easy-to-use.  \n- Defines test metrics and automates/simplifies team development and test processes.  \n- Mentor junior team members/QAE team members, build automation skill set and apply engineer best practice.  \n- Work closely with developers and define test automation strategy/solution for complex/ambiguous problem. The solutions are testable, maintainable, and efficient.  \n  \nA day in the life  \n- Responsible for maintaining existing automation framework, expand the current solution and implement enhancements for bi-weekly prod releases.  \n- Responsible for designing new automation frameworks for testing Smart Home experience on multiple surfaces (Multimodal echo devices, Fire TV).  \n- Influence partners and stakeholders by representing our end customers and raise the quality bar.  \n- Mentor junior team members/QAE team members, build automation skill set and apply engineer best practice.  \n- Optimize team's processes and work towards reducing operational QA costs.  \n  \nAbout the team  \nAlexa Smart Home QA team is responsible for testing integration of your smart home devices with Alexa and ensuring we are providing a premium end-to-end experience. We own touch and screen based interaction testing on Mobile devices, Alexa devices with screens and Fire TV devices.\n## BASIC QUALIFICATIONS\n- 2+ years of test automation frameworks and tools building experience  \n- 2+ years of non-internship professional software development testing experience  \n- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design  \n- Experience designing or supporting low-maintenance automation frameworks  \n- Experience in platform-level security mitigations and hardening for Linux and Windows\n## PREFERRED QUALIFICATIONS\n- Knowledge of overall system architecture, scalability, reliability, and performance in a database environment  \n- Experience with security in service-oriented architectures and web services  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bangalore\n  * Alexa Smart Home\n  * Software Development\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Multimedia QAE II, Hardware Compute Group",
+          "company": "Amazon",
+          "location": "Bengaluru, KA, IND",
+          "posted_date": "07/28/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3044250/multimedia-qae-ii-hardware-compute-group",
+          "job_id": "3044250",
+          "department": "Devices Hardware & eero",
+          "employment_type": null,
+          "experience_level": "Mid",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "The Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, Amazon Dash, and Amazon Echo. If you are passionate about quality engineering and automation, this is the right place for you to be the leader of the team! As a QA champion on the engineering team, you will own the vision for test infrastructures, build frameworks that allow developers to easily write reliable tests, and invent new mechanisms for ensuring that every change we make can be deployed safely and quickly. You will help solve our most difficult challenges, and you will coach other engineers to foster a culture of relentless high-standards. The ideal candidate for this role has a strong track record and proficiency in building efficient and innovative test tools. They are a pragmatic problem-solver with high judgment who brings an experienced perspective to balance quality and strategy trade-offs to meet the needs of Alexa teams, projects, and products. They will bring clarity to complexity, probing assumptions, illuminating pitfalls with data, and fostering shared understanding. They have specialized knowledge analyzing test procedures, inspecting architectures and developing test infrastructure and tools that provide confidence in product quality.",
+          "requirements": [
+            "4+ years of quality assurance engineering experience",
+            "Experience in automation testing",
+            "Experience scripting or coding",
+            "Experience in manual testing",
+            "Experience in at least, one modern programming language such as Python, Java or Perl",
+            "Familiarity with various software technologies, methodologies and applied software engineering practices/standards such as Object Oriented Design (OOD), cloud software development and embedded software"
+          ],
+          "preferred_qualifications": [
+            "Deep hands-on technical expertise",
+            "Experience in Linux subsystem and testing",
+            "Experience in testing of Display, Camera, Graphics and Codec",
+            "Experience in quality assurance for consumer electronics",
+            "A deep understanding of automation testing by leading engineers who can write automation scripts/programs that will aid in automated testing"
+          ],
+          "responsibilities": [
+            "Understanding how all elements of the system software ecosystem work together and developing QA approaches that fit the overall strategy",
+            "Responsible for development of test strategies and creation of appropriate test harnesses",
+            "Providing test infrastructure to enable engineering teams to test and own quality of the services.",
+            "Being a stakeholder of the release to ensure defects are fixed per SLA and end customer experience are protected and improved",
+            "Development and execution of test plans, monitoring and reporting on test execution and quality metrics",
+            "Coordinating with offshore Quality Service team on test execution and sign-off"
+          ],
+          "benefits": [],
+          "skills": [
+            "Quality Assurance",
+            "Automation Testing",
+            "Scripting",
+            "Coding",
+            "Manual Testing",
+            "Python",
+            "Java",
+            "Perl",
+            "Object Oriented Design (OOD)",
+            "Cloud Software Development",
+            "Embedded Software",
+            "Linux",
+            "Display Testing",
+            "Camera Testing",
+            "Graphics Testing",
+            "Codec Testing"
+          ],
+          "tags": [
+            "Quality Assurance",
+            "Testing",
+            "Automation",
+            "Hardware",
+            "Compute",
+            "Multimedia"
+          ],
+          "scraped_at": "2025-07-28T16:06:35.403008",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Multimedia QAE II, Hardware Compute Group - Job ID: 3044250 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Multimedia QAE II, Hardware Compute Group\nJob ID: 3044250 | ADCI - BLR 14 SEZ\nApply now\n## DESCRIPTION\nThe Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, Amazon Dash, and Amazon Echo. If you are passionate about quality engineering and automation, this is the right place for you to be the leader of the team!  \n  \nAs a QA champion on the engineering team, you will own the vision for test infrastructures, build frameworks that allow developers to easily write reliable tests, and invent new mechanisms for ensuring that every change we make can be deployed safely and quickly. You will help solve our most difficult challenges, and you will coach other engineers to foster a culture of relentless high-standards.   \nThe ideal candidate for this role has a strong track record and proficiency in building efficient and innovative test tools. They are a pragmatic problem-solver with high judgment who brings an experienced perspective to balance quality and strategy trade-offs to meet the needs of Alexa teams, projects, and products. They will bring clarity to complexity, probing assumptions, illuminating pitfalls with data, and fostering shared understanding. They have specialized knowledge analyzing test procedures, inspecting architectures and developing test infrastructure and tools that provide confidence in product quality.  \n  \nResponsibilities:   \n· Understanding how all elements of the system software ecosystem work together and developing QA approaches that fit the overall strategy   \n· Responsible for development of test strategies and creation of appropriate test harnesses   \n· Providing test infrastructure to enable engineering teams to test and own quality of the services.   \n· Being a stakeholder of the release to ensure defects are fixed per SLA and end customer experience are protected and improved   \n· Development and execution of test plans, monitoring and reporting on test execution and quality metrics   \n· Coordinating with offshore Quality Service team on test execution and sign-off  \n\n## BASIC QUALIFICATIONS\n- 4+ years of quality assurance engineering experience  \n- Experience in automation testing  \n- Experience scripting or coding  \n- Experience in manual testing  \n- · Experience in at least, one modern programming language such as Python, Java or Perl  \n- · Familiarity with various software technologies, methodologies and applied software engineering practices/standards such as Object Oriented Design (OOD), cloud software development and embedded software\n## PREFERRED QUALIFICATIONS\n- · Deep hands-on technical expertise  \n- · Experience in Linux subsystem and testing  \n- · Experience in testing of Display, Camera, Graphics and Codec  \n- · Experience in quality assurance for consumer electronics  \n- · A deep understanding of automation testing by leading engineers who can write automation scripts/programs that will aid in automated testing  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bengaluru\n  * Devices Hardware & eero\n  * Systems, Quality, & Security Engineering\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Digital Associate, Ring Data Engineering Services",
+          "company": "Amazon",
+          "location": "Hyderabad, TS, IND",
+          "posted_date": "07/28/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3044246/digital-associate-ring-data-engineering-services",
+          "job_id": "3044246",
+          "department": "Ring, Blink, & Amazon Key",
+          "employment_type": null,
+          "experience_level": "Entry",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "As a SA/VLM associate, you will be responsible for creating high-quality written content for videos/images and/or labeling of objects on audio, image, and/or video-file. Your primary focus will be on producing clear, concise, and informative content that meets the needs of the target audience. Key job responsibilities • Performs simple annotation-related tasks in a narrow ML data process area (e.g. audio, image, and/or video-file). Uses internal tools and software provided by team. • May participate in data collection activities when scripts and instructions are provided. Adheres to compliance and confidentiality requirements. • Apply strong language skills, grammar knowledge, and linguistic rules to ensure the generated text adheres to proper grammar, syntax, and appropriate language usage. • Maintaining high internal quality of the processes by performing quality audits/verification. • Meets daily productivity and quality targets. Tracks queries related to annotation/data collection and share them with the relevant stakeholders to help solve them. • Track daily task completion status using recommended tools and provide individual status reports. • Adhere to confidentiality & compliance requirements to ensure zero risk to customer data and Amazon. Helps test new SOPs and ML data tools. • Providing specific & timely feedback to streamline existing processes and help the team achieve more consistent results with high quality. • Offering remedial instruction in tool usage and other topics as required. Requirements: • Strong command of the English language, including grammar, syntax, and vocabulary. • Background in linguistics, creative writing, computational linguistics, or a related field is preferred. • Analytical mindset with the ability to evaluate and interpret data to improve the performance of the system. • Good familiarity with the Windows desktop environment and uses of Word, Excel, IE, Firefox etc. are required • Flexibility and Interest to do repetitive tasks is required. • High level of energy and proactive nature. A sense of ownership and drive and a willingness to accept the challenge of daily deadlines is essential • Attention to detail and ability to identify and rectify errors or inconsistencies in descriptions generated. • Strong problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment. • Passion for language, technology, and AI advancements. • Ability to meet deadlines, prioritize tasks, and manage multiple projects simultaneously.",
+          "requirements": [
+            "Bachelor's degree",
+            "Speak, write, and read fluently in English",
+            "Knowledge of Microsoft Office products and applications",
+            "Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays",
+            "Certification in any of the following: Content Writing, Creative Writing, English Literature, English, Literary Arts, Linguistics, English as a Second Language Teaching (preferred).",
+            "Strong command of the English language, including grammar, syntax, and vocabulary.",
+            "Analytical mindset with the ability to evaluate and interpret data to improve the performance of the system.",
+            "Good familiarity with the Windows desktop environment and uses of Word, Excel, IE, Firefox etc. are required",
+            "Flexibility and Interest to do repetitive tasks is required.",
+            "High level of energy and proactive nature. A sense of ownership and drive and a willingness to accept the challenge of daily deadlines is essential",
+            "Attention to detail and ability to identify and rectify errors or inconsistencies in descriptions generated.",
+            "Strong problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment.",
+            "Passion for language, technology, and AI advancements.",
+            "Ability to meet deadlines, prioritize tasks, and manage multiple projects simultaneously."
+          ],
+          "preferred_qualifications": [
+            "Bachelor's degree in English, Journalism, Marketing, or a related field (preferred).",
+            "Prior experience of 2-4 years and familiarity with US culture preferred; or experience in multicultural communication will be a plus."
+          ],
+          "responsibilities": [
+            "Performs simple annotation-related tasks in a narrow ML data process area (e.g. audio, image, and/or video-file). Uses internal tools and software provided by team.",
+            "May participate in data collection activities when scripts and instructions are provided. Adheres to compliance and confidentiality requirements.",
+            "Apply strong language skills, grammar knowledge, and linguistic rules to ensure the generated text adheres to proper grammar, syntax, and appropriate language usage.",
+            "Maintaining high internal quality of the processes by performing quality audits/verification.",
+            "Meets daily productivity and quality targets. Tracks queries related to annotation/data collection and share them with the relevant stakeholders to help solve them.",
+            "Track daily task completion status using recommended tools and provide individual status reports.",
+            "Adhere to confidentiality & compliance requirements to ensure zero risk to customer data and Amazon. Helps test new SOPs and ML data tools.",
+            "Providing specific & timely feedback to streamline existing processes and help the team achieve more consistent results with high quality.",
+            "Offering remedial instruction in tool usage and other topics as required."
+          ],
+          "benefits": [],
+          "skills": [
+            "English",
+            "Microsoft Office",
+            "Content Writing",
+            "Creative Writing",
+            "English Literature",
+            "Literary Arts",
+            "Linguistics",
+            "English as a Second Language Teaching",
+            "Grammar",
+            "Syntax",
+            "Vocabulary",
+            "Windows",
+            "Word",
+            "Excel",
+            "IE",
+            "Firefox",
+            "Problem-solving",
+            "AI",
+            "Annotation"
+          ],
+          "tags": [
+            "Data Engineering",
+            "Digital Associate",
+            "Content Writing",
+            "Annotation",
+            "Machine Learning",
+            "Operations",
+            "IT",
+            "Support Engineering"
+          ],
+          "scraped_at": "2025-07-28T16:06:47.063159",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Digital Associate, Ring Data Engineering Services - Job ID: 3044246 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Digital Associate, Ring Data Engineering Services\nJob ID: 3044246 | ADCI HYD 16 SEZ\nApply now\n## DESCRIPTION\nAs a SA/VLM associate, you will be responsible for creating high-quality written content for videos/images and/or labeling of objects on audio, image, and/or video-file. Your primary focus will be on producing clear, concise, and informative content that meets the needs of the target audience.   \n  \n  \nKey job responsibilities  \n• Performs simple annotation-related tasks in a narrow ML data process area (e.g. audio, image, and/or video-file). Uses internal tools and software provided by team.   \n• May participate in data collection activities when scripts and instructions are provided. Adheres to compliance and confidentiality requirements.   \n• Apply strong language skills, grammar knowledge, and linguistic rules to ensure the generated text adheres to proper grammar, syntax, and appropriate language usage.  \n• Maintaining high internal quality of the processes by performing quality audits/verification.  \n• Meets daily productivity and quality targets. Tracks queries related to annotation/data collection and share them with the relevant stakeholders to help solve them.   \n• Track daily task completion status using recommended tools and provide individual status reports.   \n• Adhere to confidentiality & compliance requirements to ensure zero risk to customer data and Amazon. Helps test new SOPs and ML data tools.  \n• Providing specific & timely feedback to streamline existing processes and help the team achieve more consistent results with high quality.  \n• Offering remedial instruction in tool usage and other topics as required.  \nRequirements:  \n• Strong command of the English language, including grammar, syntax, and vocabulary.  \n• Background in linguistics, creative writing, computational linguistics, or a related field is preferred.  \n• Analytical mindset with the ability to evaluate and interpret data to improve the performance of the system.  \n• Good familiarity with the Windows desktop environment and uses of Word, Excel, IE, Firefox etc. are required   \n• Flexibility and Interest to do repetitive tasks is required.  \n• High level of energy and proactive nature. A sense of ownership and drive and a willingness to accept the challenge of daily deadlines is essential  \n• Attention to detail and ability to identify and rectify errors or inconsistencies in descriptions generated.  \n• Strong problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment.  \n• Passion for language, technology, and AI advancements.  \n• Ability to meet deadlines, prioritize tasks, and manage multiple projects simultaneously.  \n\n## BASIC QUALIFICATIONS\n- Bachelor's degree  \n- Speak, write, and read fluently in English  \n- Knowledge of Microsoft Office products and applications  \n- Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays  \n- Certification in any of the following: Content Writing, Creative Writing, English Literature, English, Literary Arts, Linguistics, English as a Second Language Teaching (preferred).\n## PREFERRED QUALIFICATIONS\n- Bachelor's degree in English, Journalism, Marketing, or a related field (preferred).  \n- Prior experience of 2-4 years and familiarity with US culture preferred; or experience in multicultural communication will be a plus.  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, TS, Hyderabad\n  * Ring, Blink, & Amazon Key\n  * Operations, IT, & Support Engineering\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        }
+      ],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 3,
+        "successful_jobs": 3,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 4.68,
+        "cookie_handling": 0,
+        "page_load": 4.68,
+        "captcha_handling": 0,
+        "total": 34.19
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 10,
+        "skipped_duplicates": 6,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 3,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false
+      },
+      "end_time": "2025-07-28T16:06:47.080787"
+    },
+    "Atlassian": {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering%2CData%2C%20Analytics%20%26%20Research%2CDesign%2CAtlassian%20Corporate%20Engineering%20%28ACE%29&location=India&search=",
+      "status": "failed",
+      "start_time": "2025-07-28T16:06:49.088472",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:06:49.099174"
+    },
+    "Google": {
+      "company": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&skills=Software",
+      "status": "failed",
+      "start_time": "2025-07-28T16:06:51.100649",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:06:51.111205"
+    },
+    "Nokia": {
+      "company": "Nokia",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=India&locationId=300000000471745&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:41.298848",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:41.306534"
+    },
+    "Apple": {
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-in/search?location=india-INDC&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+silicon-technologies-HRDWR-SILT+engineering-project-management-HRDWR-EPM+analog-and-digital-design-HRDWR-ADD",
+      "status": "failed",
+      "start_time": "2025-07-28T16:06:55.115710",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:06:55.121439"
+    },
+    "IBM": {
+      "company": "IBM",
+      "url": "https://www.ibm.com/in-en/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Enterprise%20Operations&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_08[3]=Data%20%26%20Analytics&field_keyword_08[4]=Design%20%26%20UX&field_keyword_08[5]=Cloud&field_keyword_05[0]=India",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:51.342869",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:51.348982"
+    },
+    "Citrix": {
+      "company": "Citrix",
+      "url": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN&dropdown_field_4_uids%5B%5D=a4417b43843293f5fa513f5f452169a7&dropdown_field_4_uids%5B%5D=77c93f5b8ab20d608fe14cc54a4b43f9&query=",
+      "status": "failed",
+      "start_time": "2025-07-28T16:06:59.128797",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:06:59.133740"
+    },
+    "Teradata": {
+      "company": "Teradata",
+      "url": "https://careers.teradata.com/jobs?location=India&jobCategory=3&jobCategory=16&jobCategory=18&jobCategory=8",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:01.134761",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:01.144390"
+    },
+    "Texas Instruments": {
+      "company": "Texas Instruments",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?lastSelectedFacet=CATEGORIES&location=India&locationId=300000000361484&locationLevel=country&mode=location&selectedCategoriesFacet=300000068853972%3B300000068853892",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:03.145298",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:03.148659"
+    },
+    "United Health Group": {
+      "company": "United Health Group",
+      "url": "https://careers.unitedhealthgroup.com/job-search-results/?multi_select1[]=Business%20%26%20Data%20Analytics&multi_select1[]=Research%20and%20Development&multi_select1[]=Technology&location=India&country=IN&radius=25",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:05.149291",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:05.159100"
+    },
+    "Citi Bank": {
+      "company": "Citi Bank",
+      "url": "https://jobs.citi.com/search-jobs/India/287/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:07.159874",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:07.169651"
+    },
+    "Synopsys": {
+      "company": "Synopsys",
+      "url": "https://careers.synopsys.com/search-jobs/India/44408/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:09.170600",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:09.174313"
+    },
+    "BMC": {
+      "company": "BMC",
+      "url": "https://jobs.bmc.com/Careers/SearchJobs/india?listFilterMode=1&jobRecordsPerPage=6&",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:11.175119",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:11.182954"
+    },
+    "Intuit": {
+      "company": "Intuit",
+      "url": "https://jobs.intuit.com/search-jobs/India/27595/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:13.184000",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:13.188138"
+    },
+    "Pure Storage": {
+      "company": "Pure Storage",
+      "url": "https://job-boards.greenhouse.io/purestorage?location=India&offices%5B%5D=43857&departments%5B%5D=301&departments%5B%5D=1597&departments%5B%5D=377",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:15.188799",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:15.195750"
+    },
+    "Verizon": {
+      "company": "Verizon",
+      "url": "https://mycareer.verizon.com/jobs/?search=&country=India&team=Product&team=Technology&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:17.196613",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:17.202324"
+    },
+    "Salesforce": {
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/?search=&country=India&team=Data&team=Development+%26+Strategy&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&team=User+Experience&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:19.202643",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:19.209225"
+    },
+    "Morgan Stanley": {
+      "company": "Morgan Stanley",
+      "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&location=India&pid=549783559225&sort_by=distance&filter_include_remote=1&filter_businessarea=technology%2Ctechnology+and+operations",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:21.209993",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:21.213711"
+    },
+    "NTT Data": {
+      "company": "NTT Data",
+      "url": "https://careers-inc.nttdata.com/search/?createNewAlert=false&q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:23.214660",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:23.222843"
+    },
+    "Walmart": {
+      "company": "Walmart",
+      "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal?jobFamilyGroup=e83ebdbd2a0a01ea72c2808948e924c6&jobFamilyGroup=e83ebdbd2a0a01e7e1477a8948e904c6&jobFamilyGroup=e83ebdbd2a0a01af0185848948e94dc6&jobFamilyGroup=e83ebdbd2a0a01cc71e67f8948e91ac6&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:25.224019",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:25.234258"
+    },
+    "KPMG": {
+      "company": "KPMG",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=Technology+Developer&lastSelectedFacet=LOCATIONS&location=India&locationId=300000000296042&locationLevel=country&mode=location&selectedLocationsFacet=300000000296042",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:27.235305",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:27.244999"
+    },
+    "Honeywell": {
+      "company": "Honeywell",
+      "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs?lastSelectedFacet=TITLES&location=India&locationId=300000000469485&locationLevel=country&mode=location&selectedTitlesFacet=124%3B120%3B125%3B340%3B126",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:29.245360",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:29.252216"
+    },
+    "Bank of America": {
+      "company": "Bank of America",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&start=0&rows=10&search=jobsByLocation&filters=division%3DGlobal+Technology%2Carea%3DProduct+Strategy+%26+Development%2Carea%3DTechnology&searchstring=India",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:31.253373",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:31.263133"
+    },
+    "Wells Fargo": {
+      "company": "Wells Fargo",
+      "url": "https://www.wellsfargojobs.com/en/jobs/?search=&country=India&team=Data+%26+Analytics&team=Research&team=Technology+%26+Data&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:33.264191",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:33.267164"
+    },
+    "EY": {
+      "company": "EY",
+      "url": "https://careers.ey.com/ey/search/?q=India&q2=&alertId=&locationsearch=&title=Developer&location=",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:35.268276",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:35.278500"
+    },
+    "SAP": {
+      "company": "SAP",
+      "url": "https://jobs.sap.com/search/?q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:37.280207",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:37.293327"
+    },
+    "Bosch": {
+      "company": "Bosch",
+      "url": "https://careers.smartrecruiters.com/BoschGroup/india",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:39.294694",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:39.298137"
+    },
+    "Cisco": {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:43.307567",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:43.318020"
+    },
+    "Goldman Sachs": {
+      "company": "Goldman Sachs",
+      "url": "https://higher.gs.com/results?DIVISION=Engineering%20Division&JOB_FUNCTION=Data%20Analytics|Data%20Engineering|Software%20Engineering|Technology%20Products|Learning%20%26%20Development&LOCATION=Bengaluru|Mumbai|Hyderabad&page=1&sort=RELEVANCE",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:45.319513",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:45.328443"
+    },
+    "Deloitte": {
+      "company": "Deloitte",
+      "url": "https://southasiacareers.deloitte.com/search/?q=&q2=&alertId=&locationsearch=India&title=Developer&location=&date=",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:47.329680",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:47.334916"
+    },
+    "JP Morgan": {
+      "company": "JP Morgan",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India&locationId=300000000289360&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:49.335977",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:49.341817"
+    },
+    "Target": {
+      "company": "Target",
+      "url": "https://target.wd5.myworkdayjobs.com/TargetCareers?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:53.349873",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:53.356394"
+    },
+    "Ciena": {
+      "company": "Ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers?Location_Region_State_Province=110deb52af724949bd6d2b655a3492f0&Location_Region_State_Province=a3c37012f51642f4a7b3dafc8ac37801&Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=f08e25a5d78010903df730510aefa016",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:55.356860",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:55.362741"
+    },
+    "Motorola Solutions": {
+      "company": "Motorola Solutions",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=India&jobFamilyGroup=2161bef685534428b91fad96fc9069b4&jobFamilyGroup=c3fc17b768e842e39b7192f0bf4cb0f1&jobFamilyGroup=c2197eea2758408bbbe52d2c04006230&timeType=14bb6aa2c25e4a218b2a3faaa951e44c",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:57.363900",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:57.372992"
+    },
+    "BrowserStack": {
+      "company": "BrowserStack",
+      "url": "https://browserstack.wd3.myworkdayjobs.com/External?jobFamilyGroup=0cb9174e33c9100190f156427de80000",
+      "status": "failed",
+      "start_time": "2025-07-28T16:07:59.373634",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:07:59.389331"
+    },
+    "3M": {
+      "company": "3M",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e937e224196b1066cb46855288e09e9c",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:01.390131",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:01.399636"
+    },
+    "Gen": {
+      "company": "Gen",
+      "url": "https://gen.wd1.myworkdayjobs.com/careers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:03.400777",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:03.408460"
+    },
+    "Intel": {
+      "company": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External?locations=1e4a4eb3adf101f44070f976bf8184cf",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:05.409862",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:05.415352"
+    },
+    "Crowdstrike": {
+      "company": "Crowdstrike",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/CrowdStrikeCareers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&Job_Family=1408861ee6e201641be2c2f6b000c00b&Job_Family=1408861ee6e20197f95adbf6b000d20b&Job_Family=cb19f044639b1001f6a02595bc920000",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:07.415791",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:07.421668"
+    },
+    "Nvidia": {
+      "company": "Nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52b82135ba3266",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:09.422651",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:09.432904"
+    },
+    "Samsung": {
+      "company": "Samsung",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers?locations=9903637af4ee10017a5e7c6741a30000&locations=0c974e8c1228010867596ab21b3c3469",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:11.433912",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:11.440778"
+    },
+    "Philips": {
+      "company": "Philips",
+      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers?locationCountry=India&locationHierarchy1=6e1b2a934716103c2adde1d57e7700ea&jobFamilyGroup=58aeacb31cc0011e54561931bd325829&jobFamilyGroup=169c3da8f7270169c0ee692fbd324709&jobFamilyGroup=94eec23a3cab01216af07777df6a8d29",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:13.441545",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:13.447002"
+    },
+    "Adobe": {
+      "company": "Adobe",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=591af8b812fa10737af39db3d96eed9f&jobFamilyGroup=591af8b812fa10737b0e880e0e3eeee9",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:15.447678",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:15.454068"
+    },
+    "Jhonson Controls": {
+      "company": "Jhonson Controls",
+      "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI?locations=59c45107aefd0100150a39cae16f0000&locations=d88b8274a28d01001508d6e41b790000&locations=8a6647241218010014dc0448de550000&locations=8a6647241218010014dbfbb6369e0000&locations=d88b8274a28d0100151240aebe770000&locations=5d89c910febd010014edfa0ce32d0000&locations=15695db1dccc010014dc9953fad00000&locations=d88b8274a28d0100150d450046450000&jobFamilyGroup=e6c5fb966d2f103b0676ec44ac856a22",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:17.454630",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:17.461423"
+    },
+    "Logitech": {
+      "company": "Logitech",
+      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e1dd9f3022da104d1ec67decab9a80a0&jobFamilyGroup=e1dd9f3022da104d1ec6875c07a280aa",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:19.462201",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:19.470681"
+    },
+    "Accenture": {
+      "company": "Accenture",
+      "url": "https://www.accenture.com/in-en/careers/jobsearch?aoi=Artificial%20Intelligence%20(AI)%20%26%20Data%20Science%7CEngineering%20%26%20Manufacturing%7CCustomer%20%26%20User%20Experience%20%7CProduct%20Development%7CProgramming%20Languages%7CTechnology%7CSoftware%20Engineering%7CTechnology%20Platforms",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:21.471371",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:21.490606"
+    },
+    "Mastercard": {
+      "company": "Mastercard",
+      "url": "https://careers.mastercard.com/us/en/search-results",
+      "status": "failed",
+      "start_time": "2025-07-28T16:08:23.495280",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-28T16:08:23.503362"
+    }
+  }
+}

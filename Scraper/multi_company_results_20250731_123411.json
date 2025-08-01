@@ -1,0 +1,1693 @@
+{
+  "scraping_session": {
+    "start_time": "2025-07-31T12:34:11.580377",
+    "session_id": "session_20250731_123411",
+    "status": "completed",
+    "total_companies": 49,
+    "completed_companies": 1,
+    "successful_companies": 1,
+    "total_jobs_scraped": 13,
+    "end_time": "2025-07-31T12:39:50.567755",
+    "total_duration_seconds": 338.987378,
+    "session_statistics": {
+      "total_job_cards_found": 20,
+      "total_skipped_duplicates": 5,
+      "total_skipped_extraction_errors": 0,
+      "total_successful_extractions": 13,
+      "total_gemini_processing_errors": 0,
+      "total_crawl4ai_errors": 0,
+      "companies_with_browser_errors": 0
+    }
+  },
+  "companies": {
+    "Zebra": {
+      "company": "Zebra",
+      "url": "https://zebra.eightfold.ai/careers?location=India",
+      "status": "completed",
+      "start_time": "2025-07-31T12:34:12.350694",
+      "jobs": [
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Pune,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627662308&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: NoOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Designs, develops, and tests on a variety of software assignments that constitute a portion of a larger projectDevelops and tests documentation which describes the specific software functionalityParticipates and provides some input in project code reviewsRuns software tests designed by more experienced engineersReviews test results and perform root cause analyses to identify problemsProvides recommendations and implements solutions to complex issues. Insures compliance with quality process and standardsMakes changes to or upgrades existing software. Enhances and improves existing technologies to apply to new solutionsMakes and implements recommendations to immediate team to enhance performance and improve productivity  Seeks out new tools to analyze and solve problemsExercises judgment within defined procedures and practices to determine appropriate actionReceives general instructions on routine work, new projects or assignmentsMay provide guidance to non-exempt personnelBuilds productive working relationships internally and externallyPrimary intra-organizational with occasional inter-organizational and external customer contacts on routine mattersFamiliarity with cloud platforms (GCP) , natural language processing (NLP), LLM and Co-PilotContribute to continuous improvement by researching and applying new AI techniques and cloud technologies. Qualifications:Preferred Education: Bachelor's or Masters degree in an appropriate engineering discipline required.Preferred Work Experience (years):Bachelors degree and 2+ years or Masters degree with no experience.All Other Regions: Bachelor’s or Master’s degree in an appropriate engineeringdiscipline requiredPreferred work experience (years): 2+ years experience To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:34:37",
+          "job_details_info": "Software Engineer, II Pune,  India  Apply Now Add to Job Cart ID: 109583 Job DescriptionRemote Work: NoOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Designs, develops, and tests on a variety of software assignments that constitute a portion of a larger projectDevelops and tests documentation which describes the specific software functionalityParticipates and provides some input in project code reviewsRuns software tests designed by more experienced engineersReviews test results and perform root cause analyses to identify problemsProvides recommendations and implements solutions to complex issues. Insures compliance with quality process and standardsMakes changes to or upgrades existing software. Enhances and improves existing technologies to apply to new solutionsMakes and implements recommendations to immediate team to enhance performance and improve productivity  Seeks out new tools to analyze and solve problemsExercises judgment within defined procedures and practices to determine appropriate actionReceives general instructions on routine work, new projects or assignmentsMay provide guidance to non-exempt personnelBuilds productive working relationships internally and externallyPrimary intra-organizational with occasional inter-organizational and external customer contacts on routine mattersFamiliarity with cloud platforms (GCP) , natural language processing (NLP), LLM and Co-PilotContribute to continuous improvement by researching and applying new AI techniques and cloud technologies. Qualifications:Preferred Education: Bachelor's or Masters degree in an appropriate engineering discipline required.Preferred Work Experience (years):Bachelors degree and 2+ years or Masters degree with no experience.All Other Regions: Bachelor’s or Master’s degree in an appropriate engineeringdiscipline requiredPreferred work experience (years): 2+ years experience To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Custom Products Firmware/Software Engineer IIHoltsville,  New York,  United StatesEngineeringHybridSoftware Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineeringSoftware Engineer, IPune,  IndiaEngineering  Software Engineer, IPune,  IndiaEngineeringSoftware Engineer I (SL), SeniorColombo,  Sri LankaEngineeringSoftware Engineer - Go LangLincolnshire,  Illinois,  United States and 4 moreEngineering  Release & Deployment Engineer, SeniorPune,  IndiaEngineeringTechnical Customer Support, IIPune,  IndiaCustomer Service / SupportProduct Validation Engineer, IIHanoi,  Viet NamEngineering             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Bangalore,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627635632&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: NoOverview:At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.Let’s create tomorrow together.This is an opportunity to join a growing team in a dynamic new business opportunity within Zebra. Zebra Technologies located in Bangalore revolutionizes the way work is done in large warehouses and distribution centers with innovative robotic solutions. Our team members include robotics and software experts with multidisciplinary backgrounds. We are seeking software engineers to join the Zebra Team!As the key backend developer, you will be asked to interpret the business requirements as provided by the product owner and translate those requirements into a design, an application and supporting DB schema. Careful design with solid implementations will be key to success in this role.Position Description: Zebra is looking for passionate, talented software engineers to join the tight knit team that designs and builds our cloud robotics platform which powers fleets of robots deployed at our customer sites.This is a very specific and remarkable greenfield opportunity. You will partner closely with cloud software, infrastructure and robotics teams Responsibilities:Design, develop and deploy core components of our next generation cloud robotics platform.Work closely with the product and other engineering teams to envision and drive the technical roadmap for cloud robotics platformInfluence larger team's technical and collaborative culture and processes by growing and mentoring other engineersWork with business analyst to understand our customer’s business processing needs.Work with the DevOps teams to ensure a smooth, automated test and deployment for the application. Qualifications:Preferred Education: Bachelor's degree 3-6 years of relevant work experience in server side and/or data engineering development.Outstanding abstraction skills to decouple complex problems into simple concepts.Software development using programming languages Go, PythonStrong knowledge in any one of the cloud technologies like AWS/Google Cloud/AzureExperience with automated testing, Unit testing, deployment pipelines and cloud based infrastructure.Experience in Docker, KubernetesStrong understanding of databases, NoSQL data stores, storage and distributedpersistence technologiesExperience with cloud-based architectures: SaaS, Micro-ServicesExperience in Design principle patterns & system designProficient understanding of code versioning tools, such as GitStrong knowledge on data structures, algorithms and problem-solving skillsPassionate about enabling next generation experiencesGood Analytical, Problem solving and Debugging skills.Experience in greenfield architecture and well-crafted, elegant systems.Demonstrated ability to find the best solution for the problem at hand.Highly collaborative and open working style.Desired:Good understanding on REST, gRPC and GraphQLExperience with robotics and embedded systems development.Experience with 3rd party data platforms (e.g., Snowflake, Spark, Databricks).Experience integrating with 3rd party monitoring tools (e.g., Prometheus, Kibanna, Grafana).Experience working at deployment and infrastructure level.What We Offer:Competitive salary.Zebra Incentive Program (annual performance bonus)Zebra’s GEM appreciation/recognition programFlexible time off - work hard & play hard.Awesome company culture and ability to work with robots!Zebra’s culture is encouraging and collaborative where our employees are encouraged to learn and grow together. As we celebrate our 5 decades of success, this is a phenomenal time to join us and make your mark for the 6th one. We are excited to hear from you!”To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police de",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:34:45",
+          "job_details_info": "Software Engineer I (IN), Senior (Cloud) Bangalore,  India  Apply Now Add to Job Cart ID: 109563 Job DescriptionRemote Work: NoOverview:At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.Let’s create tomorrow together.This is an opportunity to join a growing team in a dynamic new business opportunity within Zebra. Zebra Technologies located in Bangalore revolutionizes the way work is done in large warehouses and distribution centers with innovative robotic solutions. Our team members include robotics and software experts with multidisciplinary backgrounds. We are seeking software engineers to join the Zebra Team!As the key backend developer, you will be asked to interpret the business requirements as provided by the product owner and translate those requirements into a design, an application and supporting DB schema. Careful design with solid implementations will be key to success in this role.Position Description: Zebra is looking for passionate, talented software engineers to join the tight knit team that designs and builds our cloud robotics platform which powers fleets of robots deployed at our customer sites.This is a very specific and remarkable greenfield opportunity. You will partner closely with cloud software, infrastructure and robotics teams Responsibilities:Design, develop and deploy core components of our next generation cloud robotics platform.Work closely with the product and other engineering teams to envision and drive the technical roadmap for cloud robotics platformInfluence larger team's technical and collaborative culture and processes by growing and mentoring other engineersWork with business analyst to understand our customer’s business processing needs.Work with the DevOps teams to ensure a smooth, automated test and deployment for the application. Qualifications:Preferred Education: Bachelor's degree 3-6 years of relevant work experience in server side and/or data engineering development.Outstanding abstraction skills to decouple complex problems into simple concepts.Software development using programming languages Go, PythonStrong knowledge in any one of the cloud technologies like AWS/Google Cloud/AzureExperience with automated testing, Unit testing, deployment pipelines and cloud based infrastructure.Experience in Docker, KubernetesStrong understanding of databases, NoSQL data stores, storage and distributedpersistence technologiesExperience with cloud-based architectures: SaaS, Micro-ServicesExperience in Design principle patterns & system designProficient understanding of code versioning tools, such as GitStrong knowledge on data structures, algorithms and problem-solving skillsPassionate about enabling next generation experiencesGood Analytical, Problem solving and Debugging skills.Experience in greenfield architecture and well-crafted, elegant systems.Demonstrated ability to find the best solution for the problem at hand.Highly collaborative and open working style.Desired:Good understanding on REST, gRPC and GraphQLExperience with robotics and embedded systems development.Experience with 3rd party data platforms (e.g., Snowflake, Spark, Databricks).Experience integrating with 3rd party monitoring tools (e.g., Prometheus, Kibanna, Grafana).Experience working at deployment and infrastructure level.What We Offer:Competitive salary.Zebra Incentive Program (annual performance bonus)Zebra’s GEM appreciation/recognition programFlexible time off - work hard & play hard.Awesome company culture and ability to work with robots!Zebra’s culture is encouraging and collaborative where our employees are encouraged to learn and grow together. As we celebrate our 5 decades of success, this is a phenomenal time to join us and make your mark for the 6th one. We are excited to hear from you!”To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Software Engineer I (SL), SeniorColombo,  Sri LankaEngineeringCloud Engineer, SeniorBangalore,  IndiaEngineeringSoftware Engineer, IPune,  IndiaEngineering  Enterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation TechnologySoftware Engineer, IPune,  IndiaEngineeringData Engineer, SeniorBangalore,  IndiaInformation Technology  Custom Products Firmware/Software Engineer IIHoltsville,  New York,  United StatesEngineeringHybridSoftware Engineer - Go LangLincolnshire,  Illinois,  United States and 4 moreEngineeringComputer Vision Application Engineer, SeniorGliwice,  PolandEngineering             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Bangalore,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627589205&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.We are seeking a highly skilled and motivated Data Scientist (LLM Specialist) to join our AI/ML team. This role is ideal for an individual passionate about Large Language Models (LLMs), workflow automation, and customer-centric AI solutions. You will be responsible for building robust ML pipelines, designing scalable workflows, interfacing with customers, and independently driving research and innovation in the evolving agentic AI space.Key Responsibilities:LLM Development & Optimization: Train, fine-tune, evaluate, and deploy Large Language Models (LLMs) for various customer-facing applications.Pipeline & Workflow Development: Build scalable machine learning workflows and pipelines that facilitate efficient data ingestion, model training, and deployment.Model Evaluation & Performance Tuning: Implement best-in-class evaluation metrics to assess model performance, optimize for efficiency, and mitigate biases in LLM applications.Customer Engagement: Collaborate closely with customers to understand their needs, design AI-driven solutions, and iterate on models to enhance user experiences.Research & Innovation: Stay updated on the latest developments in LLMs, agentic AI, reinforcement learning with human feedback (RLHF), and generative AI applications. Recommend novel approaches to improve AI-based solutions.Infrastructure & Deployment: Work with MLOps tools to streamline deployment and serve models efficiently using cloud-based or on-premise architectures, including Google Vertex AI for model training, deployment, and inference.Foundational Model Training: Experience working with open-weight foundational models, leveraging pre-trained architectures, fine-tuning on domain-specific datasets, and optimizing models for performance and cost-efficiency.Cross-Functional Collaboration: Partner with engineering, product, and design teams to integrate LLM-based solutions into customer products seamlessly.Ethical AI Practices: Ensure responsible AI development by addressing concerns related to bias, safety, security, and interpretability in LLMs.Responsibilities:Experience: experience in ML, NLP, or AI-related roles, with a focus on LLMs and generative AI.Programming Skills: Proficiency in Python and experience with ML frameworks like TensorFlow, PyTorchLLM Expertise: Hands-on experience in training, fine-tuning, and deploying LLMs (e.g., OpenAI’s GPT, Meta’s LLaMA, Mistral, or other transformer-based architectures).Foundational Model Knowledge: Strong understanding of open-weight LLM architectures, including training methodologies, fine-tuning techniques, hyperparameter optimization, and model distillation.Data Pipeline Development: Strong understanding of data engineering concepts, feature engineering, and workflow automation using Airflow or Kubeflow.Cloud & MLOps: Experience deploying ML models in cloud environments like AWS, GCP (Google Vertex AI), or Azure using Docker and Kubernetes.Model Serving & Optimization: Proficiency in model quantization, pruning, distillation, and knowledge distillation to improve deployment efficiency and scalability.Research & Problem-Solving: Ability to conduct independent research, explore novel solutions, and implement state-of-the-art ML techniques.Strong Communication Skills: Ability to translate technical concepts into actionable insights for non-technical stakeholders.Version Control & Collaboration: Proficiency in Git, CI/CD pipelines, and working in cross-functional teams.Qualifications:Bachelor’s in Computer Science, Machine learning, or related discipline.Master’s preferredStrong background in statistics, machine learning, deep learning and programming necessary. 5+years experience requiredExperience in solving large-scale real-world industry problems, preferably in collaboration with cross-functional, multi-disciplinary teamsKnowledge of statistical programming techniques and languages (e.g., R, Python, Java, etc.)Working knowledge of common machine learning and deep learning approaches (e.g. regression, clustering, classification, dimensionality reduction, supervised and unsupervised t",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:34:53",
+          "job_details_info": "Data Scientist, Senior Bangalore,  India  Apply Now Add to Job Cart ID: 109555 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.We are seeking a highly skilled and motivated Data Scientist (LLM Specialist) to join our AI/ML team. This role is ideal for an individual passionate about Large Language Models (LLMs), workflow automation, and customer-centric AI solutions. You will be responsible for building robust ML pipelines, designing scalable workflows, interfacing with customers, and independently driving research and innovation in the evolving agentic AI space.Key Responsibilities:LLM Development & Optimization: Train, fine-tune, evaluate, and deploy Large Language Models (LLMs) for various customer-facing applications.Pipeline & Workflow Development: Build scalable machine learning workflows and pipelines that facilitate efficient data ingestion, model training, and deployment.Model Evaluation & Performance Tuning: Implement best-in-class evaluation metrics to assess model performance, optimize for efficiency, and mitigate biases in LLM applications.Customer Engagement: Collaborate closely with customers to understand their needs, design AI-driven solutions, and iterate on models to enhance user experiences.Research & Innovation: Stay updated on the latest developments in LLMs, agentic AI, reinforcement learning with human feedback (RLHF), and generative AI applications. Recommend novel approaches to improve AI-based solutions.Infrastructure & Deployment: Work with MLOps tools to streamline deployment and serve models efficiently using cloud-based or on-premise architectures, including Google Vertex AI for model training, deployment, and inference.Foundational Model Training: Experience working with open-weight foundational models, leveraging pre-trained architectures, fine-tuning on domain-specific datasets, and optimizing models for performance and cost-efficiency.Cross-Functional Collaboration: Partner with engineering, product, and design teams to integrate LLM-based solutions into customer products seamlessly.Ethical AI Practices: Ensure responsible AI development by addressing concerns related to bias, safety, security, and interpretability in LLMs.Responsibilities:Experience: experience in ML, NLP, or AI-related roles, with a focus on LLMs and generative AI.Programming Skills: Proficiency in Python and experience with ML frameworks like TensorFlow, PyTorchLLM Expertise: Hands-on experience in training, fine-tuning, and deploying LLMs (e.g., OpenAI’s GPT, Meta’s LLaMA, Mistral, or other transformer-based architectures).Foundational Model Knowledge: Strong understanding of open-weight LLM architectures, including training methodologies, fine-tuning techniques, hyperparameter optimization, and model distillation.Data Pipeline Development: Strong understanding of data engineering concepts, feature engineering, and workflow automation using Airflow or Kubeflow.Cloud & MLOps: Experience deploying ML models in cloud environments like AWS, GCP (Google Vertex AI), or Azure using Docker and Kubernetes.Model Serving & Optimization: Proficiency in model quantization, pruning, distillation, and knowledge distillation to improve deployment efficiency and scalability.Research & Problem-Solving: Ability to conduct independent research, explore novel solutions, and implement state-of-the-art ML techniques.Strong Communication Skills: Ability to translate technical concepts into actionable insights for non-technical stakeholders.Version Control & Collaboration: Proficiency in Git, CI/CD pipelines, and working in cross-functional teams.Qualifications:Bachelor’s in Computer Science, Machine learning, or related discipline.Master’s preferredStrong background in statistics, machine learning, deep learning and programming necessary. 5+years experience requiredExperience in solving large-scale real-world industry problems, preferably in collaboration with cross-functional, multi-disciplinary teamsKnowledge of statistical programming techniques and languages (e.g., R, Python, Java, etc.)Working knowledge of common machine learning and deep learning approaches (e.g. regression, clustering, classification, dimensionality reduction, supervised and unsupervised techniques, Bayesian reasoning, boosting, random forests, deep learning) and data analysis packages (e.g. scikit-learn, pyclustering, pathways analysis, MLlib)Prior experience with TensorflowPrior experience in Natural Language Processing using NLTKRetail industry experience desiredExperience using cloud compute (e.g. Google Cloud Platform, AWS, Azure)Familiarity with NoSQL databases, graphical analyses, and large-scale data processing frameworks (e.g. Apache Spark)Solid understanding of data structures, software design and architectureAbility to work independently and take initiative, but also a co-operative team playerTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Data Scientist, SeniorLincolnshire,  Illinois,  United States and 1 moreInformation TechnologyData Engineer, SeniorBangalore,  IndiaInformation TechnologySoftware Engineer, IPune,  IndiaEngineering  Software Engineer, IPune,  IndiaEngineeringProduct Manager Software Solutions, AdvancedBangalore,  IndiaEngineeringBusiness Analyst, IPenang,  MalaysiaStrategic Planning and Corporate Development  Business Analyst, IIPenang,  MalaysiaStrategic Planning and Corporate DevelopmentSoftware Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineeringBusiness Analyst, IIBrno,  Czech RepublicStrategic Planning and Corporate DevelopmentHybrid             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Bangalore,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627444625&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.As a Product Manager Software Solutions, you will orchestrate the product definition, positioning,pricing and lifecyle management of a product line (product series) within a family of products. Youare responsible for leading interactions with every organization responsible for the development,production, marketing, sales, and service of the product line to ensure successful business results andsatisfies customer needs.Responsibilities:• Determine product offerings and driving development, launch and adoption of product topositively impact the customers’ experience and market share.• Translate business priorities and customer expectations into user stories so that thesoftware development team can build solutions that excite users.• Work with the software development teams to ensure clarity of requirements and makenecessary adjustments to best meet customer needs• Balance feature value against cost to build and communicate tradeoffs to Sr. ProductManager.• Prioritize and maintain product backlog and collaborate with software teams to agreeon sprint backlog that meets sprint goals.• Validate user acceptance testing.• Triage and prioritize issues identified throughout the sprint.• Collaborate with Sr. Product Manager to convert market analysis into a coherentrequirement including feature prioritization, cost, sales volume, and profitabilityexpectations.• Collaborate with Sr. Product Manager to conduct market, customer, and competitiveanalysis in order to understand customer needs for his/her product line.• Lead all aspects of the product launch plans to assure that his/her product is presentedto the market as intended by the strategy.Qualifications:• Bachelor’s degree required.• Minimum 8 years’ experience in a software organization, product owner or related role.• Experience with SaaS based enterprise software products and associated mobile application and aclear understanding of how to design the product for easy adoption by end users is essential. Preferred verticals expereince as retail, helathcare and general supplychain. Communication experience ,voice /video calls and push to talk and PBX. Strong execution skills with the ability to prioritize and deliver needs on time to the Senior Manager of Product Management.• Must be a self-starter who is very driven, with a go-getter attitude.• Scrum Certification (PSPO or CSPO).• Ability to travel 10 to 20% of the time and telework. U.S. Only – Frequency Definitions for Physical Activities, Environmental Conditions andPhysical Demands:Never – 0%Occasionally - 0-20 times per shift or up to 33% of the timeFrequently - 20-100 times per shift or 33-66% of the timeConstantly - Over 100 times per shift or 66-100% of the time Physical Activities (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).• Ascending or descending ladders, stairs, scaffolding, ramps, poles and the like. (Never)• Working from heights such as roofs, ladders, or powered lifts. (Never)• Moving self in different positions to accomplish tasks in various environments including awkwardor tight and confined spaces. (Never)• Remaining in a stationary position, often standing or sitting for prolonged periods. (Frequently)• Stooping, kneeling, bending, crouching, reaching, pushing/pulling. (Never)• Moving about to accomplish tasks or moving from one worksite to another. (Occasionally)• Adjusting or moving objects up to ## pounds in all directions. (Never)• Communicating with others to exchange information. (Frequently)• Repeating motions that may include the wrists, hands and/or fingers. (Frequently)• Operating machinery and/or power tools. (Never)• Operating motor vehicles, industrial vehicles, or heavy equipment. (Never)• Assessing the accuracy, neatness and thoroughness of the work assigned. (Occasionally) Environmental Conditions (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).• Exposure to extreme temperatures (high or low). (Never)• Outdoor elements such as precipitation and wind. (Never)• Nois",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:00",
+          "job_details_info": "Product Manager Software Solutions, Advanced Bangalore,  India  Apply Now Add to Job Cart ID: 109502 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.As a Product Manager Software Solutions, you will orchestrate the product definition, positioning,pricing and lifecyle management of a product line (product series) within a family of products. Youare responsible for leading interactions with every organization responsible for the development,production, marketing, sales, and service of the product line to ensure successful business results andsatisfies customer needs.Responsibilities:• Determine product offerings and driving development, launch and adoption of product topositively impact the customers’ experience and market share.• Translate business priorities and customer expectations into user stories so that thesoftware development team can build solutions that excite users.• Work with the software development teams to ensure clarity of requirements and makenecessary adjustments to best meet customer needs• Balance feature value against cost to build and communicate tradeoffs to Sr. ProductManager.• Prioritize and maintain product backlog and collaborate with software teams to agreeon sprint backlog that meets sprint goals.• Validate user acceptance testing.• Triage and prioritize issues identified throughout the sprint.• Collaborate with Sr. Product Manager to convert market analysis into a coherentrequirement including feature prioritization, cost, sales volume, and profitabilityexpectations.• Collaborate with Sr. Product Manager to conduct market, customer, and competitiveanalysis in order to understand customer needs for his/her product line.• Lead all aspects of the product launch plans to assure that his/her product is presentedto the market as intended by the strategy.Qualifications:• Bachelor’s degree required.• Minimum 8 years’ experience in a software organization, product owner or related role.• Experience with SaaS based enterprise software products and associated mobile application and aclear understanding of how to design the product for easy adoption by end users is essential. Preferred verticals expereince as retail, helathcare and general supplychain. Communication experience ,voice /video calls and push to talk and PBX. Strong execution skills with the ability to prioritize and deliver needs on time to the Senior Manager of Product Management.• Must be a self-starter who is very driven, with a go-getter attitude.• Scrum Certification (PSPO or CSPO).• Ability to travel 10 to 20% of the time and telework. U.S. Only – Frequency Definitions for Physical Activities, Environmental Conditions andPhysical Demands:Never – 0%Occasionally - 0-20 times per shift or up to 33% of the timeFrequently - 20-100 times per shift or 33-66% of the timeConstantly - Over 100 times per shift or 66-100% of the time Physical Activities (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).• Ascending or descending ladders, stairs, scaffolding, ramps, poles and the like. (Never)• Working from heights such as roofs, ladders, or powered lifts. (Never)• Moving self in different positions to accomplish tasks in various environments including awkwardor tight and confined spaces. (Never)• Remaining in a stationary position, often standing or sitting for prolonged periods. (Frequently)• Stooping, kneeling, bending, crouching, reaching, pushing/pulling. (Never)• Moving about to accomplish tasks or moving from one worksite to another. (Occasionally)• Adjusting or moving objects up to ## pounds in all directions. (Never)• Communicating with others to exchange information. (Frequently)• Repeating motions that may include the wrists, hands and/or fingers. (Frequently)• Operating machinery and/or power tools. (Never)• Operating motor vehicles, industrial vehicles, or heavy equipment. (Never)• Assessing the accuracy, neatness and thoroughness of the work assigned. (Occasionally) Environmental Conditions (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).• Exposure to extreme temperatures (high or low). (Never)• Outdoor elements such as precipitation and wind. (Never)• Noisy environments. (Never)• Other hazardous conditions such as vibration, uneven ground surfaces, or dust & fumes. (Never)• Small and/or enclosed spaces. (Never)• No adverse environmental conditions expected. (Never) Physical Demands (U.S. only): (Sedentary work that primarily involves sitting/standing.) Must be able to see color. (Yes)Rewards Only Section:FLSA Exemption (U.S. only): ExemptFor Exempt classifications only, what exemption was used when grading the job1) Administrative2) Computer3) Professional4) Executive5) Outside Sales6) Highly compensatedTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Product Manager, SeniorHoltsville,  New York,  United StatesEngineeringRemoteSr. Director Software Solutions ConsultingLincolnshire,  Illinois,  United States and 2 moreSalesRemoteCloud Engineer, SeniorBangalore,  IndiaEngineering  Enterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation TechnologyManager Program ManagementMexico City,  MexicoEngineeringData Engineer, SeniorBangalore,  IndiaInformation Technology  Technical Program Manager - Hardware EngineeringLincolnshire,  Illinois,  United States and 1 moreEngineeringDirector Vertical Strategy (Federal Govt)Washington,  District of Columbia,  United StatesStrategic Planning and Corporate DevelopmentDirector EngineeringColombo,  Sri LankaEngineering             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Bangalore,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343627113504&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.The Global Trade Compliance team is responsible to support all business functions related to cross- border transactions.Responsibilities:Essential Duties and Responsibilities:Policies, Procedures, Processes (Creation & Implementation)o Creates processes and procedures related to International Trade Compliance;o  Applies experience and advanced research skills to updating and maintaining procedures, processes, and policies.–    Systems & Product Database Management / Trade Data Management (e.g., HTS, ECCN, COO)o  Analyzes and creates the process for maintaining trade compliance elements in the item databases.o Superuser for at least one trade system / tool.–    Regulatory Updates & Guidance to Various Internal & External Stakeholderso Research legal regulatory requirements.–    Clearance / Processes / Export Controls (Export, Import or Both)o  When necessary, prepares paperwork required for import, processes ECOs with trade compliance attributes.o Interacts with various levels of stakeholders to ensure full support of the operations.o Classifies Zebra's items in Harmonized Tariff Schedule (HS numbers) and/or Export Controls Commodity Number.o Validates classifications.–    Recordkeepingo Recommends and establishes policies and procedures for recordkeepingNote: The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, abilities, and skills required of personnel so classified.Qualifications:Job Requirements:Minimum Education:Bachelor’s Degree, and an advanced degree or consulting work experience (at Big 5) is preferred. Preferred focus of the advanced degree is Business, Finance, Communication or Law.Minimum Work Experience (years):Minimum of 5 years of direct trade compliance work experience, such as regulatory work experience with import or export laws and regulations is required. At least 2 years of continuous commodity classification (export or import) experience is preferred.Key Skills and Competencies:Export license application experience, including commodity classification determinations, commodity jurisdiction, sanctions work, etc. is preferredExcellent writing skills are requiredExcellent communication skills are requiredProject Management knowledge is requiredAdvanced knowledge of MS Word and Excel is requiredLicenses/Certifications, special qualifications:n/aEquivalencies:n/a  Position Specific Information:Travel Requirements (as a % of time): less than 5% on an “as needed” basisAble to telework? Yes/no – if yes, % of time and expectations while teleworking: yesPersonal Protective Equipment (PPE) Required (safety glasses, steel-toed boots, gloves, etc.): No  U.S. Only – Frequency Definitions for Physical Activities, Environmental Conditions and Physical Demands:Never – 0%Occasionally - 0-20 times per shift or up to 33% of the timeFrequently - 20-100 times per shift or 33-66% of the timeConstantly - Over 100 times per shift or 66-100% of the time Physical Activities (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).Ascending or descending ladders, stairs, scaffolding, ramps, poles and the like. ( Never)Working from heights such as roofs, ladders, or powered lifts. ( Never)Moving self in different positions to accomplish tasks in various environments including awkward or tight and confined spaces. ( Never)Remaining in a stationary position, often standing or sitting for prolonged periods. ( Frequently)Stooping, kneeling, bending, crouching, reaching, pushing/pulling. ( Occasionally)Moving about to accomplish tasks or moving from one worksite to another. ( Never)Adjusting or moving objects up to ## pounds in all directions. ( Never)Communicating with others to exchange information. ( Frequently)Repeating motions that may include the wrists, hands and/or fingers. ( Frequently)Operating machinery and/or power tools. ( Never)Operating motor vehicles, industrial vehicles, or heavy equipment. ( Never)Assessing the accuracy, nea",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:08",
+          "job_details_info": "Trade Compliance Specialist, Senior Bangalore,  India  Apply Now Add to Job Cart ID: 109430 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.The Global Trade Compliance team is responsible to support all business functions related to cross- border transactions.Responsibilities:Essential Duties and Responsibilities:Policies, Procedures, Processes (Creation & Implementation)o Creates processes and procedures related to International Trade Compliance;o  Applies experience and advanced research skills to updating and maintaining procedures, processes, and policies.–    Systems & Product Database Management / Trade Data Management (e.g., HTS, ECCN, COO)o  Analyzes and creates the process for maintaining trade compliance elements in the item databases.o Superuser for at least one trade system / tool.–    Regulatory Updates & Guidance to Various Internal & External Stakeholderso Research legal regulatory requirements.–    Clearance / Processes / Export Controls (Export, Import or Both)o  When necessary, prepares paperwork required for import, processes ECOs with trade compliance attributes.o Interacts with various levels of stakeholders to ensure full support of the operations.o Classifies Zebra's items in Harmonized Tariff Schedule (HS numbers) and/or Export Controls Commodity Number.o Validates classifications.–    Recordkeepingo Recommends and establishes policies and procedures for recordkeepingNote: The statements herein are intended to describe the general nature and level of work being performed by employees and are not to be construed as an exhaustive list of responsibilities, duties, abilities, and skills required of personnel so classified.Qualifications:Job Requirements:Minimum Education:Bachelor’s Degree, and an advanced degree or consulting work experience (at Big 5) is preferred. Preferred focus of the advanced degree is Business, Finance, Communication or Law.Minimum Work Experience (years):Minimum of 5 years of direct trade compliance work experience, such as regulatory work experience with import or export laws and regulations is required. At least 2 years of continuous commodity classification (export or import) experience is preferred.Key Skills and Competencies:Export license application experience, including commodity classification determinations, commodity jurisdiction, sanctions work, etc. is preferredExcellent writing skills are requiredExcellent communication skills are requiredProject Management knowledge is requiredAdvanced knowledge of MS Word and Excel is requiredLicenses/Certifications, special qualifications:n/aEquivalencies:n/a  Position Specific Information:Travel Requirements (as a % of time): less than 5% on an “as needed” basisAble to telework? Yes/no – if yes, % of time and expectations while teleworking: yesPersonal Protective Equipment (PPE) Required (safety glasses, steel-toed boots, gloves, etc.): No  U.S. Only – Frequency Definitions for Physical Activities, Environmental Conditions and Physical Demands:Never – 0%Occasionally - 0-20 times per shift or up to 33% of the timeFrequently - 20-100 times per shift or 33-66% of the timeConstantly - Over 100 times per shift or 66-100% of the time Physical Activities (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).Ascending or descending ladders, stairs, scaffolding, ramps, poles and the like. ( Never)Working from heights such as roofs, ladders, or powered lifts. ( Never)Moving self in different positions to accomplish tasks in various environments including awkward or tight and confined spaces. ( Never)Remaining in a stationary position, often standing or sitting for prolonged periods. ( Frequently)Stooping, kneeling, bending, crouching, reaching, pushing/pulling. ( Occasionally)Moving about to accomplish tasks or moving from one worksite to another. ( Never)Adjusting or moving objects up to ## pounds in all directions. ( Never)Communicating with others to exchange information. ( Frequently)Repeating motions that may include the wrists, hands and/or fingers. ( Frequently)Operating machinery and/or power tools. ( Never)Operating motor vehicles, industrial vehicles, or heavy equipment. ( Never)Assessing the accuracy, neatness and thoroughness of the work assigned. ( Constantly)Environmental Conditions (U.S. only):Select the frequency for each item on the below list (never, occasionally, frequently, constantly).Exposure to extreme temperatures (high or low). ( Never)Outdoor elements such as precipitation and wind. ( Never)Noisy environments. ( Never)Other hazardous conditions such as vibration, uneven ground surfaces, or dust & fumes. ( Never)Small and/or enclosed spaces. ( Never)No adverse environmental conditions expected. ( Never)Physical Demands (U.S. only): ( Sedentary work that primarily involves sitting/standing.) Must be able to see color. ( No)  Rewards Only Section:FLSA Exemption (U.S. only): For Exempt classifications only, what exemption was used when grading the jobAdministrativeComputerProfessionalExecutiveOutside SalesHighly compensatedTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Sourcing and Procurement Specialist, Senior AdvisorLincolnshire,  Illinois,  United States and 4 moreSupply ChainCloud Engineer, SeniorBangalore,  IndiaEngineeringEnterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation Technology  Data Engineer, SeniorBangalore,  IndiaInformation TechnologySoftware Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineeringData Scientist, SeniorBangalore,  IndiaInformation Technology  Product Manager Software Solutions, AdvancedBangalore,  IndiaEngineeringTechnical Customer Support, SeniorPenang,  MalaysiaCustomer Service / SupportTechnical Customer Support, SeniorPenang,  MalaysiaCustomer Service / Support             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Pune,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626991474&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Establishes requirements for less complex design projectsWorks on Completing all phases of Software engineering design projectsWorks on analysis of processes and delivers results to necessary stakeholdersAnalyzes results and recommends solutionsWorks on developing expected results on a variety of productsDevelops documentation for new projects and reviews previous resultsWorks with latest technologies and new approachesReviews changes or upgrades to existing designs or testExercises judgment in selecting methods and techniques for obtaining solutions on assignmentsQualifications:All other Regions:Bachelor's Degree1 to 2 years of experienceQuantitative and problem solving skillsTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:15",
+          "job_details_info": "Software Engineer, I Pune,  India  Apply Now Add to Job Cart ID: 109379 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Establishes requirements for less complex design projectsWorks on Completing all phases of Software engineering design projectsWorks on analysis of processes and delivers results to necessary stakeholdersAnalyzes results and recommends solutionsWorks on developing expected results on a variety of productsDevelops documentation for new projects and reviews previous resultsWorks with latest technologies and new approachesReviews changes or upgrades to existing designs or testExercises judgment in selecting methods and techniques for obtaining solutions on assignmentsQualifications:All other Regions:Bachelor's Degree1 to 2 years of experienceQuantitative and problem solving skillsTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Software Engineer, IPune,  IndiaEngineeringSoftware Engineer I (SL), SeniorColombo,  Sri LankaEngineeringSoftware Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineering  Data Engineer, SeniorBangalore,  IndiaInformation TechnologyCloud Engineer, SeniorBangalore,  IndiaEngineeringEnterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation Technology  Custom Products Firmware/Software Engineer IIHoltsville,  New York,  United StatesEngineeringHybridComputer Vision Application Engineer, SeniorGliwice,  PolandEngineeringAI Algorithm ResearcherLondon,  United KingdomEngineeringHybrid             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Pune,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626971293&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: NoOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Establishes requirements for less complex design projectsWorks on Completing all phases of Software engineering design projectsWorks on analysis of processes and delivers results to necessary stakeholdersAnalyzes results and recommends solutionsWorks on developing expected results on a variety of productsDevelops documentation for new projects and reviews previous resultsWorks with latest technologies and new approachesReviews changes or upgrades to existing designs or testExercises judgment in selecting methods and techniques for obtaining solutions on assignmentsQualifications:All other Regions:Bachelor's Degree1 to 2 years of experienceQuantitative and problem solving skillsMandatory :-JavaData StructuresAngularMongoDB and SQLGood to Have :-DockerKubernetesGoogle CloudTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:22",
+          "job_details_info": "Software Engineer, I Pune,  India  Apply Now Add to Job Cart ID: 109369 Job DescriptionRemote Work: NoOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Analyzes, develops, designs, and maintains software for the organization's products and systems. Performs system integration of software and hardware to maintain throughput and program consistency. Develops, validates, and tests: structures and user documentation. Work may be reviewed for accuracy and overall adequacy. Follows established processes and directions.Responsibilities:Establishes requirements for less complex design projectsWorks on Completing all phases of Software engineering design projectsWorks on analysis of processes and delivers results to necessary stakeholdersAnalyzes results and recommends solutionsWorks on developing expected results on a variety of productsDevelops documentation for new projects and reviews previous resultsWorks with latest technologies and new approachesReviews changes or upgrades to existing designs or testExercises judgment in selecting methods and techniques for obtaining solutions on assignmentsQualifications:All other Regions:Bachelor's Degree1 to 2 years of experienceQuantitative and problem solving skillsMandatory :-JavaData StructuresAngularMongoDB and SQLGood to Have :-DockerKubernetesGoogle CloudTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Software Engineer, IPune,  IndiaEngineeringSoftware Engineer I (SL), SeniorColombo,  Sri LankaEngineeringSoftware Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineering  Data Engineer, SeniorBangalore,  IndiaInformation TechnologyCloud Engineer, SeniorBangalore,  IndiaEngineeringEnterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation Technology  Custom Products Firmware/Software Engineer IIHoltsville,  New York,  United StatesEngineeringHybridComputer Vision Application Engineer, SeniorGliwice,  PolandEngineeringAI Algorithm ResearcherLondon,  United KingdomEngineeringHybrid             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Bangalore,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343626459976&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: NoOverview:At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.Let’s create tomorrow together.We are seeking a dynamic and skilled professional to join our team in a hybrid role encompassing both Site Reliability Engineering (SRE) and DevOps. The ideal candidate will be responsible for managing and optimizing our cloud infrastructure on Google Cloud Platform (GCP) and Microsoft Azure. Key responsibilities include developing automated systems for monitoring and incident response, collaborating on CI/CD pipelines using GitHub Actions, and implementing infrastructure as code with Terraform. Strong troubleshooting skills, proficiency in Shell and Python scripting, and expertise in Linux and Kubernetes are essential. The candidate should possess a proactive approach to monitoring and system management, ensuring high availability, performance, and security across our cloud environments.Responsibilities:Cloud Infrastructure Management:Design, implement, and manage scalable and reliable cloud infrastructure on Google Cloud Platform (GCP) and Microsoft Azure.Optimize cloud resource utilization and costs while ensuring high availability and performance.Site Reliability Engineering (SRE):Develop and maintain automated systems for monitoring, alerting, and incident response to ensure system reliability and uptime.Implement best practices for incident management, including root cause analysis and post-mortem documentation.DevOps Practices:Collaborate with development teams to integrate and deploy code using CI/CD pipelines with GitHub Actions.Automate routine tasks and deployment processes to improve efficiency and reduce time to market.Troubleshooting and Problem Solving:Provide expert troubleshooting for complex technical issues across the infrastructure, applications, and networks.Analyze system performance and reliability, proposing enhancements and optimizations.Infrastructure as Code (IaC):Develop and manage infrastructure using Terraform, ensuring reproducibility and scalability of cloud resources.Maintain version-controlled Terraform configurations in GitHub, enabling collaborative development and change tracking.Scripting and Automation:Develop and maintain automation scripts using Shell and Python to streamline operations and enhance productivity.Create and manage infrastructure as code (IaC) using tools like Terraform or similar.Linux and Kubernetes Administration:Manage and maintain Linux-based systems, ensuring security, patching, and configuration management.Deploy, configure, and manage Kubernetes clusters, ensuring robust container orchestration.Monitoring and Proactive Management:Implement and maintain comprehensive monitoring solutions to track system health and performance.Proactively identify potential issues and implement solutions before they impact users.Security and Compliance:Ensure cloud environments comply with organizational security policies and industry best practices.Implement security measures to protect data and applications from external threats.Qualifications:Minimum 4+ Years of experience in Cloud Development.To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:29",
+          "job_details_info": "Cloud Engineer, Senior Bangalore,  India  Apply Now Add to Job Cart ID: 109157 Job DescriptionRemote Work: NoOverview:At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.Let’s create tomorrow together.We are seeking a dynamic and skilled professional to join our team in a hybrid role encompassing both Site Reliability Engineering (SRE) and DevOps. The ideal candidate will be responsible for managing and optimizing our cloud infrastructure on Google Cloud Platform (GCP) and Microsoft Azure. Key responsibilities include developing automated systems for monitoring and incident response, collaborating on CI/CD pipelines using GitHub Actions, and implementing infrastructure as code with Terraform. Strong troubleshooting skills, proficiency in Shell and Python scripting, and expertise in Linux and Kubernetes are essential. The candidate should possess a proactive approach to monitoring and system management, ensuring high availability, performance, and security across our cloud environments.Responsibilities:Cloud Infrastructure Management:Design, implement, and manage scalable and reliable cloud infrastructure on Google Cloud Platform (GCP) and Microsoft Azure.Optimize cloud resource utilization and costs while ensuring high availability and performance.Site Reliability Engineering (SRE):Develop and maintain automated systems for monitoring, alerting, and incident response to ensure system reliability and uptime.Implement best practices for incident management, including root cause analysis and post-mortem documentation.DevOps Practices:Collaborate with development teams to integrate and deploy code using CI/CD pipelines with GitHub Actions.Automate routine tasks and deployment processes to improve efficiency and reduce time to market.Troubleshooting and Problem Solving:Provide expert troubleshooting for complex technical issues across the infrastructure, applications, and networks.Analyze system performance and reliability, proposing enhancements and optimizations.Infrastructure as Code (IaC):Develop and manage infrastructure using Terraform, ensuring reproducibility and scalability of cloud resources.Maintain version-controlled Terraform configurations in GitHub, enabling collaborative development and change tracking.Scripting and Automation:Develop and maintain automation scripts using Shell and Python to streamline operations and enhance productivity.Create and manage infrastructure as code (IaC) using tools like Terraform or similar.Linux and Kubernetes Administration:Manage and maintain Linux-based systems, ensuring security, patching, and configuration management.Deploy, configure, and manage Kubernetes clusters, ensuring robust container orchestration.Monitoring and Proactive Management:Implement and maintain comprehensive monitoring solutions to track system health and performance.Proactively identify potential issues and implement solutions before they impact users.Security and Compliance:Ensure cloud environments comply with organizational security policies and industry best practices.Implement security measures to protect data and applications from external threats.Qualifications:Minimum 4+ Years of experience in Cloud Development.To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Software Engineer I (IN), Senior (Cloud)Bangalore,  IndiaEngineeringSoftware Engineer I (SL), SeniorColombo,  Sri LankaEngineeringSoftware Engineer, IPune,  IndiaEngineering  Software Engineer, IPune,  IndiaEngineeringEnterprise Systems Analyst  B (IN), SeniorBangalore,  IndiaInformation TechnologyData Engineer, SeniorBangalore,  IndiaInformation Technology  Computer Vision Application Engineer, SeniorGliwice,  PolandEngineeringSoftware Engineer - Go LangLincolnshire,  Illinois,  United States and 4 moreEngineeringRelease & Deployment Engineer, SeniorPune,  IndiaEngineering             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Pune,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343625945791&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Resolves problems with customers via telephone, email or chat sessions using technical product knowledge and strong interpersonal skills. Troubleshoots problems with appropriate applications, products and vendors. Identifies and documents customer issues, and escalates complex issues. Understands multiple applications and platforms.Responsibilities:Communicates varied technical solutions to customers via multiple channels using effective communication, listening and comprehension skills.• Fully documents customer interactions in real-time; may author content for review.• Solves problems in a timely manner using full understanding of the product functions and features and customer environment.• Analyzes and corrects product issues/ malfunctions with intermittent supervision on day-to-day work and general supervision on new assignments.• Works on a full range of problems of moderate scope that require selection and/or modification of existing procedures and processes,• Manages multiple tickets related a spectrum of technical problems.• Collaborates with fellow technicians and supervisor to solve complex problems.• Demonstrates the ability to articulate technical issues in simple to understand terms to both management and customers.• Demonstrates leadership qualities.• Demonstrates strong customer service, communication and problem solving skills.Qualifications:Minimum Education: High School or equivalent vocational qualification / experience Minimum Work Experience (years) : 1-2 years of experience Key Skills and Competencies:• Intermediate level skills in Microsoft business applications including Word, Excel and Outlook• Customer service values / orientation• Solid professional work behaviors (attendance, teamwork, time management)• Strong Communication skills (listening, providing clear and concise information, using proper language and grammar)• Full knowledge of job related knowledge and procedures Position Specific InformationTravel Requirements: Up to 10%Able to Telework? Yes – hybrid work approachTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:37",
+          "job_details_info": "Technical Customer Support, II Pune,  India  Apply Now Add to Job Cart ID: 109051 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Resolves problems with customers via telephone, email or chat sessions using technical product knowledge and strong interpersonal skills. Troubleshoots problems with appropriate applications, products and vendors. Identifies and documents customer issues, and escalates complex issues. Understands multiple applications and platforms.Responsibilities:Communicates varied technical solutions to customers via multiple channels using effective communication, listening and comprehension skills.• Fully documents customer interactions in real-time; may author content for review.• Solves problems in a timely manner using full understanding of the product functions and features and customer environment.• Analyzes and corrects product issues/ malfunctions with intermittent supervision on day-to-day work and general supervision on new assignments.• Works on a full range of problems of moderate scope that require selection and/or modification of existing procedures and processes,• Manages multiple tickets related a spectrum of technical problems.• Collaborates with fellow technicians and supervisor to solve complex problems.• Demonstrates the ability to articulate technical issues in simple to understand terms to both management and customers.• Demonstrates leadership qualities.• Demonstrates strong customer service, communication and problem solving skills.Qualifications:Minimum Education: High School or equivalent vocational qualification / experience Minimum Work Experience (years) : 1-2 years of experience Key Skills and Competencies:• Intermediate level skills in Microsoft business applications including Word, Excel and Outlook• Customer service values / orientation• Solid professional work behaviors (attendance, teamwork, time management)• Strong Communication skills (listening, providing clear and concise information, using proper language and grammar)• Full knowledge of job related knowledge and procedures Position Specific InformationTravel Requirements: Up to 10%Able to Telework? Yes – hybrid work approachTo protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Technical Customer Support, IIKennesaw,  Georgia,  United StatesCustomer Service / SupportTechnical Customer Support, II (Mandarin Speaker)Penang,  MalaysiaCustomer Service / SupportTechnical Customer Support, II (Spanish language)Penang,  MalaysiaCustomer Service / Support  Technical Customer Support, IIPenang,  MalaysiaCustomer Service / SupportTechnical Customer Support, IIPenang,  MalaysiaCustomer Service / SupportTechnical Customer Support, I with ItalianBrno,  Czech RepublicCustomer Service / Support  Technical Customer Support, SeniorPenang,  MalaysiaCustomer Service / SupportTechnical Customer Support, SeniorPenang,  MalaysiaCustomer Service / SupportTechnical Customer Support, IPenang,  MalaysiaCustomer Service / Support             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        },
+        {
+          "title": "Our Purpose | Pioneering Innovation and Driving Success | Zebra",
+          "company": "Zebra",
+          "location": "Gautam Budha Nagar,  Uttar Pradesh,  India",
+          "posted_date": "N/A",
+          "apply_link": "https://zebra.eightfold.ai/careers?location=India&pid=343625905268&domain=zebra.com&sort_by=relevance",
+          "job_id": "N/A",
+          "department": "N/A",
+          "employment_type": "N/A",
+          "experience_level": "N/A",
+          "remote_work": "N/A",
+          "salary": "N/A",
+          "deadline": "N/A",
+          "description": "Remote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Takes ownership of assigned end-user account(s) or territory; develops and executes sales strategy for assigned account(s) or territory with manager's input; develops strong relationships with key customer contacts and leverages to Zebra's advantage; creates and delivers high impact sales presentations and capable of product training; often used for those with strong technical background but limited sales experience or strong sales with limited product/market understanding.Responsibilities:Knowledge/ExpertiseTechnical Skills - Uses moderate domain/solutions knowledgeKnowledge of Zebra - Utilizes solid understanding of all Products/Services in businessSales Skills - Applies Solution Selling concepts to customer situations; excellent communication and interpersonal skillsManagerial Skills - Understands policies and practices related to role and shares ideas for improvementBusiness Acumen - Understands and explains how Zebra solutions can help customer's business results; obtains profitable revenue growth via value proposition vs. competitionMarket/customer Knowledge - Uses full knowledge of customer's business and market economics/trends to position effectively versus competitionSolution Complexity/Strategic ThinkingNature of Problems Solved - Solves routine problems of moderate complexity (e.g. verifying technical compatibility) at the customer levelRole in Addressing Problems - Understands and resolves problems with support from technical resourcesComplexity of Solutions - Typically medium complexity (e.g. value proposition vs. competition), but may have some complex projects that require unique coordination of technical resourcesFreedom to ActLevel of Guidance - Works under general supervision. Makes decisions of moderate complexity that impact deliverables of projects; exercises judgment in approach, sometimes requiring and assessing tradeoffsTakes Direction From - Group Manager and DirectorsCustomer InterfaceRole - Acts independently or as a team lead for ad-hoc teamsLevel of Customer Contact - Buyers/decision makers for small and mid-sized deals and end usersMain Level of Interaction - Responsible for influencing the customer to purchase moderate size projectsRequired Knowledge of Customer - Operational strategies for success and competitorsAccountabilityBusiness and Financial Impact - Responsible for individual revenue attainment with established prices and personal expensesRelative Size and Scope - Moderate to average individual quota size for business and like rolesTypes of Projects - Many transactions with some moderately complex dealsStrategic Impact for Zebra - Medium/mid-termQualifications:Bachelors or equivalent experience2-5 years of applicable work experienceUses moderate domain/solutions knowledgeApplies Solution Selling concepts to customer situations; excellent communication and interpersonal skillsUnderstands policies and practices related to role and shares ideas for improvementThis position base location is NOIDA.To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.",
+          "requirements": "N/A",
+          "benefits": "N/A",
+          "skills": "N/A",
+          "source_url": "https://zebra.eightfold.ai/careers?location=India",
+          "scraped_at": "2025-07-31 12:35:44",
+          "job_details_info": "Account Mgr (Enterprise Sales) Gautam Budha Nagar,  Uttar Pradesh,  India  Apply Now Add to Job Cart ID: 109032 Job DescriptionRemote Work: HybridOverview: At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.\n Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.\n You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world. Let’s create tomorrow together.Takes ownership of assigned end-user account(s) or territory; develops and executes sales strategy for assigned account(s) or territory with manager's input; develops strong relationships with key customer contacts and leverages to Zebra's advantage; creates and delivers high impact sales presentations and capable of product training; often used for those with strong technical background but limited sales experience or strong sales with limited product/market understanding.Responsibilities:Knowledge/ExpertiseTechnical Skills - Uses moderate domain/solutions knowledgeKnowledge of Zebra - Utilizes solid understanding of all Products/Services in businessSales Skills - Applies Solution Selling concepts to customer situations; excellent communication and interpersonal skillsManagerial Skills - Understands policies and practices related to role and shares ideas for improvementBusiness Acumen - Understands and explains how Zebra solutions can help customer's business results; obtains profitable revenue growth via value proposition vs. competitionMarket/customer Knowledge - Uses full knowledge of customer's business and market economics/trends to position effectively versus competitionSolution Complexity/Strategic ThinkingNature of Problems Solved - Solves routine problems of moderate complexity (e.g. verifying technical compatibility) at the customer levelRole in Addressing Problems - Understands and resolves problems with support from technical resourcesComplexity of Solutions - Typically medium complexity (e.g. value proposition vs. competition), but may have some complex projects that require unique coordination of technical resourcesFreedom to ActLevel of Guidance - Works under general supervision. Makes decisions of moderate complexity that impact deliverables of projects; exercises judgment in approach, sometimes requiring and assessing tradeoffsTakes Direction From - Group Manager and DirectorsCustomer InterfaceRole - Acts independently or as a team lead for ad-hoc teamsLevel of Customer Contact - Buyers/decision makers for small and mid-sized deals and end usersMain Level of Interaction - Responsible for influencing the customer to purchase moderate size projectsRequired Knowledge of Customer - Operational strategies for success and competitorsAccountabilityBusiness and Financial Impact - Responsible for individual revenue attainment with established prices and personal expensesRelative Size and Scope - Moderate to average individual quota size for business and like rolesTypes of Projects - Many transactions with some moderately complex dealsStrategic Impact for Zebra - Medium/mid-termQualifications:Bachelors or equivalent experience2-5 years of applicable work experienceUses moderate domain/solutions knowledgeApplies Solution Selling concepts to customer situations; excellent communication and interpersonal skillsUnderstands policies and practices related to role and shares ideas for improvementThis position base location is NOIDA.To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system.  Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department. Other Similar Jobs Account Mgr SrTokyo,  JapanSalesAccount Mgr SrMacquarie Park,  AustraliaSalesAccount Mgr SrGlen Waverley,  AustraliaSales  Account MgrTokyo,  JapanSalesChannel Mgr (Kolkata)District Gautam Budh Nagar,  IndiaSalesChannel Mgr SrSan Pedro Garza Garcia,  MexicoSales  Sr Sales Manager - Retail / Govt SectorTokyo,  JapanSalesInside Sales Rep SrSingapore,  SingaporeSalesAccount Mgr Sr RetailTokyo,  Japan and 1 moreSales             Slide 1 of 3Recommended Videos for you  Our Purpose | Pioneering Innovation and Driving Success | Zebra Explore our new purpose in this video featuring members of Zebra’s Executive Leadership Team, who share their thoughts on what's next here at Zebra.Th...    How do Zebra's live out our Company Values? | Zebra Zebras across the globe were asked, \"How do you live out our company values?\" Watch now to listen to a few of our herd on how they bring our culture t...  Slide 1 of 2Perks and Benefits Health & Well-Being Benefits that help you stay well, provide coverage when you need it, and give you control over how you care for yourself and your family.  Financial Future Retirement benefits, Discounted Employee Stock Purchase Program and other resources to help you reach your long term financial goals. Work-Life Balance Paid time off and flexible work arrangements that allow you to integrate work and home. Relax, recover, care for family members, honor personal commitments, and more.  Competitive Pay Expect fair compensation and equal opportunities for all our employees. Inclusion & Diversity Be you and feel a sense of belonging in an inclusive working culture offering Employee Resource Groups and more. Learning & Development Programs and experiences designed to help you grow your career and hone your knowledge and skills, including Tuition Reimbursement.  Volunteer & Giving Create a better world for communities and the environment with our volunteering programs & paid volunteer time. Our philanthropic efforts are far-reaching and steeped in generosity and passion of our employees. Recommended Articles For You              Blog | Zebra     Our blog is the go-to industry resource for thought provoking content from across ...            About Zebra Technologies Corporation     Gain a performance edge by intelligently connecting people, assets, and data with...            Corporate Social Responsibility | Zebra     Zebra's Corporate Social Responsibility (CSR) Program focuses on environmental, soci...               1/1"
+        }
+      ],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 10,
+        "successful_jobs": 10,
+        "failed_jobs": 0,
+        "pagination_type": "Load_more"
+      },
+      "timing": {
+        "navigation": 64.16241029999999,
+        "cookie_handling": 21.3874701,
+        "page_load": 42.7749402,
+        "extraction": 85.5498804,
+        "total": 213.874701
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 10,
+        "skipped_duplicates": 0,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 10,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false,
+        "special_case_used": true
+      },
+      "end_time": "2025-07-31T12:37:46.225395"
+    },
+    "Amazon": {
+      "company": "Amazon",
+      "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+      "status": "success",
+      "start_time": "2025-07-31T12:37:48.226547",
+      "jobs": [
+        {
+          "title": "Software Development Engineer",
+          "company": "Amazon",
+          "location": "Hyderabad, TS, IND",
+          "posted_date": "01/06/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/2866047/software-development-engineer-amazon",
+          "experience": "3+ years",
+          "job_id": "2866047",
+          "department": "Business Data Technologies (BDT)",
+          "employment_type": null,
+          "experience_level": "Mid",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "Software Development Engineer to lead architecture of large initiatives in scaling, security and availability. Design, develop and support a world-class system. Produce robust, efficient and maintainable code in Java and Python. Challenge existing systems and explore improvements to meet business needs. Work with a motivated team to solve interesting problems.",
+          "requirements": [
+            "3+ years of non-internship professional software development experience",
+            "2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+            "Experience programming with at least one software programming language",
+            "Bachelor's degree or equivalent"
+          ],
+          "preferred_qualifications": [
+            "3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience"
+          ],
+          "responsibilities": [
+            "Lead architecture of large initiatives in scaling, security and availability.",
+            "Design, develop and support a world-class system that serves diverse user profiles and teams.",
+            "Produce bullet-proof code that is robust, efficient and maintainable; our primary languages are Java and Python.",
+            "Continually challenge what exists and explore what should be changed to best meet evolving business and market needs.",
+            "Possess expert knowledge in large scale distributed system design and engineering best practices",
+            "Participate in setting a vision and objectives in alignment with business and market needs.",
+            "Understand the compliance requirements for data storage and raise the bar of Privacy for Amazon.",
+            "Drive and work on algorithm and architecture design, execute and deliver results.",
+            "Invent the future, instead of just being a bystander.",
+            "Join a great group of motivated, top-notch, people and work with them to solve interesting and useful problems in a fun, collaborative environment."
+          ],
+          "benefits": [],
+          "skills": [
+            "Software Development",
+            "Architecture",
+            "Design Patterns",
+            "Reliability",
+            "Scaling",
+            "Java",
+            "Python",
+            "Algorithms",
+            "Data Storage",
+            "Distributed Systems"
+          ],
+          "tags": [
+            "Software Development",
+            "Engineering",
+            "Privacy",
+            "Data"
+          ],
+          "scraped_at": "2025-07-31T12:38:00.658174",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Software Development Engineer, Amazon - Job ID: 2866047 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Software Development Engineer, Amazon\nJob ID: 2866047 | ADCI - Karnataka\nApply now\n## DESCRIPTION\nBusiness Data Technologies (BDT) makes it easier for teams across Amazon to produce, store, catalog, secure, move, and analyze data at massive scale. Our managed solutions combine standard AWS tooling, open-source products, and custom services to free teams from worrying about the complexities of operating at Amazon scale. This lets Amazon Engineers to move beyond the engineering and operational burden associated with managing and scaling platforms, and instead focus on scaling the value they can glean from their data, both for their customers and their teams.  \n  \nWe own the one of the biggest (largest) data lakes for Amazon where 1000’s of Amazon teams can search, share, and store EB (Exabytes) of data in a secure and seamless way; using our solutions, teams around the world can schedule/process millions of workloads on a daily basis. We provide enterprise solutions that focus on compliance, security, integrity, and cost efficiency of operating and managing EBs of Amazon data.  \n  \n***********************************  \n  \n  \n  \n  \nKey job responsibilities  \n***********************************  \nAs a Software Development Engineer, you will:  \n  \n* Lead architecture of large initiatives in scaling, security and availability.  \n* Design, develop and support a world-class system that serves diverse user profiles and teams.  \n* Produce bullet-proof code that is robust, efficient and maintainable; our primary languages are Java and Python.  \n* Continually challenge what exists and explore what should be changed to best meet evolving business and market needs.  \n* Possess expert knowledge in large scale distributed system design and engineering best practices  \n* Participate in setting a vision and objectives in alignment with business and market needs.  \n* Understand the compliance requirements for data storage and raise the bar of Privacy for Amazon.  \n* Drive and work on algorithm and architecture design, execute and deliver results.  \n* Invent the future, instead of just being a bystander.  \n* Join a great group of motivated, top-notch, people and work with them to solve interesting and useful problems in a fun, collaborative environment.  \n  \n***********************************  \n  \n  \nAbout the team  \n***********************************  \nBDT Privacy team strives to raise the bar on data privacy through self-service solutions aligned based on CDO Privacy's guidelines.   \nThe BDT Privacy team is responsible for accelerating Amazon's data-driven business by enabling the next generation of analytics and machine learning technologies at scale, while raising the bar on global customer trust. We provide foundational capabilities to meet regulatory and compliance needs related to data deletion, data retention, and data retrieval for DSAR (Data Subject Access Requests) across Amazon's Andes datasets. Our team processes millions of on-demand data deletion requests, deletes terabytes of data using programmatic deletion, and fulfills thousands of DSAR requests each month. We automate data privacy, compliance, and security requirements, favoring reusable solutions and self-service tools to create a virtuous cycle of operational excellence, efficiency, and continuous improvement.\n## BASIC QUALIFICATIONS\n- 3+ years of non-internship professional software development experience  \n- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience  \n- Experience programming with at least one software programming language  \n- Bachelor's degree or equivalent\n## PREFERRED QUALIFICATIONS\n- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, TS, Hyderabad\n  * Software Development\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Senior Software Development Engineer, Self-Service and Automation Team, Amazon Customer Service",
+          "company": "Amazon",
+          "location": "Hyderabad, TS, IND",
+          "posted_date": "07/31/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3048653/senior-software-development-engineer-self-service-and-automation-team-amazon-customer-service",
+          "experience": "7+ years",
+          "job_id": "3048653",
+          "department": "Self-Service and Automation Team, Amazon Customer Service",
+          "employment_type": null,
+          "experience_level": "Senior",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "Senior Software Development Engineer to be part of a Global Product and Technology team, focusing on robust architecture, world class UX, and leverage Gen-AI technologies to drive insights and solutions through a myriad of applications. Will architect next-generation customer facing systems that harness the power of Large Language Models.",
+          "requirements": [
+            "7+ years of non-internship professional software development experience",
+            "7+ years of programming with at least one software programming language experience",
+            "5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+            "Experience as a mentor, tech lead or leading an engineering team"
+          ],
+          "preferred_qualifications": [
+            "7+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience",
+            "Bachelor's degree in computer science or equivalent"
+          ],
+          "responsibilities": [
+            "Lead the development of SSA products and drive improvements that enable the organisation to effectively insist on the highest operational excellence standards.",
+            "Design and develop scalable, enterprise solutions and solve problems that have substantial risks and conflicting constraints along multiple dimensions",
+            "Create frameworks and solutions that enable seamless integration of GenAI technologies into existing systems",
+            "Collaborate with engineering and product teams to identify opportunities for automation and efficiency improvements",
+            "Establish best practices and guidelines for code organisation, clarity, simplicity, error handling, and documentation.",
+            "Drive innovation through technical demonstrations, workshops, and documentation",
+            "Drive team's OE/ EE efforts and mentor fellow engineers on implementation strategies",
+            "Make good tradeoffs between short-term delivery and long-term maintainability of your organisation’s architecture"
+          ],
+          "benefits": [
+            "Disability accommodations",
+            "Inclusive experiences"
+          ],
+          "skills": [
+            "Software Development",
+            "Programming",
+            "Design Patterns",
+            "Architecture",
+            "Reliability",
+            "Scaling",
+            "Gen-AI technologies",
+            "Machine Learning"
+          ],
+          "tags": [
+            "Software Development",
+            "Automation",
+            "Customer Service",
+            "AI",
+            "GenAI"
+          ],
+          "scraped_at": "2025-07-31T12:38:08.776375",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Senior Software Development Engineer, Self-Service and Automation Team, Amazon Customer Service - Job ID: 3048653 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Senior Software Development Engineer, Self-Service and Automation Team, Amazon Customer Service\nJob ID: 3048653 | ADCI HYD 13 SEZ\nApply now\n## DESCRIPTION\nAt Amazon we drive innovation and customer obsession into everything we do, and this is especially true in the Customer Engagement Technologies (CET) department. CET owns the technology to support and enhance our Customer Service Operations network through our Self Service and Automation features, and various client applications. We focus on robust architecture, world class UX, and leverage Gen-AI technologies to drive insights and solutions through a myriad of applications.   \n  \nWe are looking for a Senior Software Development Engineer (Sr. SDE) to be part of a Global Product and Technology team whose innovations and strategies will define the next generation of customer experience for Amazon Customer Service, providing a seamless customer support experience globally and ensuring issues are resolved during the first interaction.   \n  \nAs our Technical Leader, you'll architect next-generation customer facing systems that harness the power of Large Language Models, keeping us at the forefront of AI innovation. You'll have the unique opportunity to influence our technical direction, collaborate with teams across the organization, and drive the adoption of transformative AI solutions.  \n  \nIf you're passionate about emerging AI technologies and want to make a lasting impact on developer productivity at scale, this role offers an exceptional platform to advance your expertise in one of tech's most dynamic fields.  \n  \nKey job responsibilities  \n- Lead the development of SSA products and drive improvements that enable the organisation to effectively insist on the highest operational excellence standards.  \n- Design and develop scalable, enterprise solutions and solve problems that have substantial risks and conflicting constraints along multiple dimensions   \n- Create frameworks and solutions that enable seamless integration of GenAI technologies into existing systems  \n- Collaborate with engineering and product teams to identify opportunities for automation and efficiency improvements  \n- Establish best practices and guidelines for code organisation, clarity, simplicity, error handling, and documentation.  \n- Drive innovation through technical demonstrations, workshops, and documentation  \n- Drive team's OE/ EE efforts and mentor fellow engineers on implementation strategies  \n- Make good tradeoffs between short-term delivery and long-term maintainability of your organisation’s architecture  \n  \nAbout the team  \nThe Self-Service Automation (SSA) team is a critical part of the Customer Engagement Technology (CET) organisation. Our mission is to apply machine learning to solve customer problems through our customer service channels without the need for agent intervention. We also work to make contact handling more efficient for both Customer Service Associates and Customers in cases where full automation is not applicable.  \n  \nWe own the end-to-end contact experience across the retail website and mobile applications. Our goal is to empower customers to self-serve whenever possible, while also equipping our agents with the tools and insights they need to provide exceptional support.  \n  \nSome key focus areas for the SSA team include:  \n  \nDeveloping intelligent self-service features that can resolve common customer inquiries without human assistance  \n  \nOptimizing contact routing and triage to ensure customers are directed to the most appropriate support channel  \n  \nLeveraging predictive analytics to anticipate customer needs and proactively offer solutions  \n  \nIntegrating automation seamlessly into the overall customer service experience  \n  \n  \nBy driving innovation in these areas, we aim to improve efficiency, reduce costs, and most importantly, delight our customers through friction less, personalized support. This is core to our mission within the broader CET organization.\n## BASIC QUALIFICATIONS\n- 7+ years of non-internship professional software development experience  \n- 7+ years of programming with at least one software programming language experience  \n- 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience  \n- Experience as a mentor, tech lead or leading an engineering team\n## PREFERRED QUALIFICATIONS\n- 7+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience  \n- Bachelor's degree in computer science or equivalent  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, TS, Hyderabad\n  * Software Development\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        },
+        {
+          "title": "Software Development Engineer, Quality Algorithm and Experiences (Kindle)",
+          "company": "Amazon",
+          "location": "Bengaluru, KA, IND",
+          "posted_date": "07/31/2025",
+          "apply_link": "https://www.amazon.jobs/en/jobs/3048638/software-development-engineer-quality-algorithm-and-experiences-kindle",
+          "experience": "3+ years",
+          "job_id": "3048638",
+          "department": "Kindle Content",
+          "employment_type": null,
+          "experience_level": "Mid",
+          "remote_work": null,
+          "salary": null,
+          "deadline": null,
+          "description": "Amazon Kindle is looking for a talented and enthusiastic Software Development Engineer(SDE) to join the Kindle Content business. The New Kindle Reading Foundation team works on revolutionizing next generation of reading possibilities for millions of customers.",
+          "requirements": [
+            "3+ years of non-internship professional software development experience",
+            "2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+            "Experience programming with at least one software programming language"
+          ],
+          "preferred_qualifications": [
+            "3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience",
+            "Bachelor's degree in computer science or equivalent",
+            "Experience programming with C++/Java"
+          ],
+          "responsibilities": [
+            "Responsible for the architecture of software solutions, working with and improving on current limitations and compatibilities between subsystems, building new concepts and methodology, and the development of major routines and utilities.",
+            "Designing and Building new features that are highly performant",
+            "Preparation of technical requirements and software design specifications.",
+            "Understanding the internals of graphics subsystems.",
+            "Instilling best practices for software development and documentation, making sure designs meet requirements, and delivering high quality software on tight schedules."
+          ],
+          "benefits": [],
+          "skills": [
+            "Software Development",
+            "Design Patterns",
+            "Architecture",
+            "C++",
+            "Java",
+            "Coding Standards",
+            "Code Reviews",
+            "Source Control Management",
+            "Build Processes",
+            "Testing"
+          ],
+          "tags": [
+            "Software Development",
+            "Quality Algorithm",
+            "Kindle",
+            "Bengaluru",
+            "Software Engineer"
+          ],
+          "scraped_at": "2025-07-31T12:38:16.048702",
+          "source_url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&category%5B%5D=operations-it-support-engineering&category%5B%5D=business-intelligence&category%5B%5D=systems-quality-security-engineering&state%5B%5D=Karnataka&state%5B%5D=Telangana&city%5B%5D=Bengaluru&city%5B%5D=Hyderabad&city%5B%5D=Chennai&city%5B%5D=Gurugram&city%5B%5D=Pune&city%5B%5D=Delhi&city%5B%5D=New%20Delhi&city%5B%5D=Noida&distanceType=Mi&radius=24km&latitude=28.63141&longitude=77.21676&loc_group_id=&loc_query=India&base_query=&city=&country=IND&region=&county=&query_options=&",
+          "job_details_info": "Software Development Engineer, Quality Algorithm and Experiences (Kindle) - Job ID: 3048638 | Amazon.jobs Skip to main content\n  * Home\n  * Teams\n  * Locations\n  * Job categories\n  * My career\n    * My applications\n    * My profile\n    * Account security\n    * Settings\n    * Sign out\n  * Resources\n    * Disability accommodations\n    * Benefits\n    * Inclusive experiences\n    * Interview tips\n    * Leadership principles\n    * Working at Amazon\n    * FAQ\n\n×\nAmazon Jobs home page\nSearch for jobs by title or keyword\nsearch job by location\nMy career\nMy applications My profileAccount securitySettingsSign out\nAmazon Jobs home page\ncancel\nSearch for jobs by title or keyword\nsearch job by location\nSearch jobs\nAmazon never asks for fees or deposits in any form during recruitment process. Please click here to learn more and safeguard yourself from potential frauds\n# Software Development Engineer, Quality Algorithm and Experiences (Kindle)\nJob ID: 3048638 | ADCI - Karnataka\nApply now\n## DESCRIPTION\nAmazon Kindle has changed the way books are published, sold, and read across the globe. Independent authors are now able to publish and sell direct to readers through Kindle and print-on-demand offerings, enabling them to reach audiences never before available. Kindle readers are able to download any book in any language in sixty seconds. Come be a part of changing the way the world reads.  \n  \nAmazon is looking for a talented and enthusiastic Software Development Engineer(SDE) to join the Kindle Content business. The New Kindle Reading Foundation team works on revolutionizing next generation of reading possibilities for millions of customers and thinks ahead in the space to bring more stronger foundations to delight our growing customers of different personas. We are responsible for building ideas from inception to delivery and own the Kindle Content experience foundational tech stacks which brings positive impact to our Customers, Publishers and Authors. We also work across the diverse Kindle Technologies across teams to deliver the delighting experience for our customers on time and raise the bar on engineering excellence on building content experiences at lost cost.  \n  \n  \nKey job responsibilities  \nThe Software Engineer will contribute to the definition, development, integration, test, documentation, and support of C++/Java software across multiple digital surfaces for Kindle Readers and Applications.​ This hands-on position will engage your engineering capabilities and technical knowledge of software development while developing experience successfully planning, organizing, and conducting software development projects in a dynamic environment.  \n  \n- Responsible for the architecture of software solutions, working with and improving on current limitations and compatibilities between subsystems, building new concepts and methodology, and the development of major routines and utilities.  \n- Designing and Building new features that are highly performant  \n  \n- Preparation of technical requirements and software design specifications.  \n- Understanding the internals of graphics subsystems.  \n- Instilling best practices for software development and documentation, making sure designs meet requirements, and delivering high quality software on tight schedules.  \n  \n  \nAbout the team  \nBooks Quality Algorithms and Experiences team builds automated solutions that improve the quality of eBooks and transform the reading experience through proven Algorithms and integrated with GenAI and traditional ML model frameworks for Science based solutions. Our vision is to provide highest quality reading experience from the very first read, for every eBook in our catalog. \n## BASIC QUALIFICATIONS\n- 3+ years of non-internship professional software development experience  \n- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience  \n- Experience programming with at least one software programming language\n## PREFERRED QUALIFICATIONS\n- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience  \n- Bachelor's degree in computer science or equivalent  \n- Experience programming with C++/Java.  \n  \nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n## Job details\n  *     * IND, KA, Bengaluru\n  * Software Development\n\n\n## Share this job\n  *   *   *   *   * \n\n###### JOIN US ON\n  *   *   *   * \n\n###### Find Careers\n  * Job Categories\n  * Teams\n  * Locations\n  * US and EU Military recruiting\n  * Warehouse and Hourly Jobs\n\n\n###### Working At Amazon\n  * Culture\n  * Benefits\n  * Amazon Newsletter\n  * Inclusive experiences\n  * Our leadership principles\n\n\n###### Help\n  * FAQ\n  * Interview tips\n  * Review application status\n  * Disability accommodations\n  * Legal disclosures and notices\n\n\nEnglish\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nČeština Deutsch English English, British Español Français Italiano 日本語 Polski Português, Brasil 简体中文\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\nPrivacy and DataImpressum\n© 1996-2025, Amazon.com, Inc. or its affiliates\n"
+        }
+      ],
+      "pagination_info": {
+        "pages_scraped": 1,
+        "total_jobs_found": 3,
+        "successful_jobs": 3,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 4.69,
+        "cookie_handling": 0,
+        "page_load": 4.69,
+        "captcha_handling": 0,
+        "total": 27.84
+      },
+      "errors": [],
+      "gemini_processing_errors": [],
+      "statistics": {
+        "total_job_cards_found": 10,
+        "skipped_duplicates": 5,
+        "skipped_extraction_errors": 0,
+        "successful_extractions": 3,
+        "gemini_processing_errors": 0,
+        "crawl4ai_errors": 0,
+        "browser_closed_early": false
+      },
+      "end_time": "2025-07-31T12:38:16.076821"
+    },
+    "Atlassian": {
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering%2CData%2C%20Analytics%20%26%20Research%2CDesign%2CAtlassian%20Corporate%20Engineering%20%28ACE%29&location=India&search=",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:18.086445",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:18.091219"
+    },
+    "Google": {
+      "company": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&skills=Software",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:20.091833",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:20.104145"
+    },
+    "Nokia": {
+      "company": "Nokia",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=India&locationId=300000000471745&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:10.338329",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:10.351334"
+    },
+    "Apple": {
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-in/search?location=india-INDC&team=apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+silicon-technologies-HRDWR-SILT+engineering-project-management-HRDWR-EPM+analog-and-digital-design-HRDWR-ADD",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:24.115974",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:24.125818"
+    },
+    "IBM": {
+      "company": "IBM",
+      "url": "https://www.ibm.com/in-en/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Enterprise%20Operations&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_08[3]=Data%20%26%20Analytics&field_keyword_08[4]=Design%20%26%20UX&field_keyword_08[5]=Cloud&field_keyword_05[0]=India",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:20.380709",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:20.390782"
+    },
+    "Citrix": {
+      "company": "Citrix",
+      "url": "https://careers.cloud.com/jobs/search?page=1&country_codes%5B%5D=IN&dropdown_field_4_uids%5B%5D=a4417b43843293f5fa513f5f452169a7&dropdown_field_4_uids%5B%5D=77c93f5b8ab20d608fe14cc54a4b43f9&query=",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:28.131422",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:28.141973"
+    },
+    "Teradata": {
+      "company": "Teradata",
+      "url": "https://careers.teradata.com/jobs?location=India&jobCategory=3&jobCategory=16&jobCategory=18&jobCategory=8",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:30.142967",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:30.154804"
+    },
+    "Texas Instruments": {
+      "company": "Texas Instruments",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs?lastSelectedFacet=CATEGORIES&location=India&locationId=300000000361484&locationLevel=country&mode=location&selectedCategoriesFacet=300000068853972%3B300000068853892",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:32.155647",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:32.167556"
+    },
+    "United Health Group": {
+      "company": "United Health Group",
+      "url": "https://careers.unitedhealthgroup.com/job-search-results/?multi_select1[]=Business%20%26%20Data%20Analytics&multi_select1[]=Research%20and%20Development&multi_select1[]=Technology&location=India&country=IN&radius=25",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:34.168632",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:34.176911"
+    },
+    "Citi Bank": {
+      "company": "Citi Bank",
+      "url": "https://jobs.citi.com/search-jobs/India/287/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:36.177941",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:36.185444"
+    },
+    "Synopsys": {
+      "company": "Synopsys",
+      "url": "https://careers.synopsys.com/search-jobs/India/44408/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:38.186693",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:38.193259"
+    },
+    "BMC": {
+      "company": "BMC",
+      "url": "https://jobs.bmc.com/Careers/SearchJobs/india?listFilterMode=1&jobRecordsPerPage=6&",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:40.194345",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:40.204509"
+    },
+    "Intuit": {
+      "company": "Intuit",
+      "url": "https://jobs.intuit.com/search-jobs/India/27595/2/1269750/22/79/50/2",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:42.205563",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:42.217066"
+    },
+    "Pure Storage": {
+      "company": "Pure Storage",
+      "url": "https://job-boards.greenhouse.io/purestorage?location=India&offices%5B%5D=43857&departments%5B%5D=301&departments%5B%5D=1597&departments%5B%5D=377",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:44.218327",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "none"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:44.225216"
+    },
+    "Verizon": {
+      "company": "Verizon",
+      "url": "https://mycareer.verizon.com/jobs/?search=&country=India&team=Product&team=Technology&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:46.226190",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:46.234894"
+    },
+    "Salesforce": {
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/?search=&country=India&team=Data&team=Development+%26+Strategy&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&team=User+Experience&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:48.235952",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:48.244858"
+    },
+    "Morgan Stanley": {
+      "company": "Morgan Stanley",
+      "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&location=India&pid=549783559225&sort_by=distance&filter_include_remote=1&filter_businessarea=technology%2Ctechnology+and+operations",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:50.246529",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:50.257595"
+    },
+    "NTT Data": {
+      "company": "NTT Data",
+      "url": "https://careers-inc.nttdata.com/search/?createNewAlert=false&q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:52.259111",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:52.267346"
+    },
+    "Walmart": {
+      "company": "Walmart",
+      "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal?jobFamilyGroup=e83ebdbd2a0a01ea72c2808948e924c6&jobFamilyGroup=e83ebdbd2a0a01e7e1477a8948e904c6&jobFamilyGroup=e83ebdbd2a0a01af0185848948e94dc6&jobFamilyGroup=e83ebdbd2a0a01cc71e67f8948e91ac6&locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:54.268150",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:54.271451"
+    },
+    "KPMG": {
+      "company": "KPMG",
+      "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=Technology+Developer&lastSelectedFacet=LOCATIONS&location=India&locationId=300000000296042&locationLevel=country&mode=location&selectedLocationsFacet=300000000296042",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:56.272556",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:56.278529"
+    },
+    "Honeywell": {
+      "company": "Honeywell",
+      "url": "https://careers.honeywell.com/en/sites/Honeywell/jobs?lastSelectedFacet=TITLES&location=India&locationId=300000000469485&locationLevel=country&mode=location&selectedTitlesFacet=124%3B120%3B125%3B340%3B126",
+      "status": "failed",
+      "start_time": "2025-07-31T12:38:58.282168",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:38:58.286964"
+    },
+    "Bank of America": {
+      "company": "Bank of America",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&start=0&rows=10&search=jobsByLocation&filters=division%3DGlobal+Technology%2Carea%3DProduct+Strategy+%26+Development%2Carea%3DTechnology&searchstring=India",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:00.287988",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:00.295409"
+    },
+    "Wells Fargo": {
+      "company": "Wells Fargo",
+      "url": "https://www.wellsfargojobs.com/en/jobs/?search=&country=India&team=Data+%26+Analytics&team=Research&team=Technology+%26+Data&pagesize=20#results",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:02.299239",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:02.306418"
+    },
+    "EY": {
+      "company": "EY",
+      "url": "https://careers.ey.com/ey/search/?q=India&q2=&alertId=&locationsearch=&title=Developer&location=",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:04.307123",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:04.316507"
+    },
+    "SAP": {
+      "company": "SAP",
+      "url": "https://jobs.sap.com/search/?q=&locationsearch=India",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:06.317751",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:06.325849"
+    },
+    "Bosch": {
+      "company": "Bosch",
+      "url": "https://careers.smartrecruiters.com/BoschGroup/india",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:08.326957",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:08.337950"
+    },
+    "Cisco": {
+      "company": "Cisco",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207928%5D&21178_format=6020&listFilterMode=1",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:12.352096",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:12.355251"
+    },
+    "Goldman Sachs": {
+      "company": "Goldman Sachs",
+      "url": "https://higher.gs.com/results?DIVISION=Engineering%20Division&JOB_FUNCTION=Data%20Analytics|Data%20Engineering|Software%20Engineering|Technology%20Products|Learning%20%26%20Development&LOCATION=Bengaluru|Mumbai|Hyderabad&page=1&sort=RELEVANCE",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:14.355829",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:14.360031"
+    },
+    "Deloitte": {
+      "company": "Deloitte",
+      "url": "https://southasiacareers.deloitte.com/search/?q=&q2=&alertId=&locationsearch=India&title=Developer&location=&date=",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:16.361423",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "url_param"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:16.371432"
+    },
+    "JP Morgan": {
+      "company": "JP Morgan",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?location=India&locationId=300000000289360&locationLevel=country&mode=location",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:18.372596",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "infinite_scroll"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:18.379868"
+    },
+    "Target": {
+      "company": "Target",
+      "url": "https://target.wd5.myworkdayjobs.com/TargetCareers?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:22.391732",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:22.403124"
+    },
+    "Ciena": {
+      "company": "Ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers?Location_Region_State_Province=110deb52af724949bd6d2b655a3492f0&Location_Region_State_Province=a3c37012f51642f4a7b3dafc8ac37801&Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=f08e25a5d78010903df730510aefa016",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:24.404770",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:24.414477"
+    },
+    "Motorola Solutions": {
+      "company": "Motorola Solutions",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers?q=India&jobFamilyGroup=2161bef685534428b91fad96fc9069b4&jobFamilyGroup=c3fc17b768e842e39b7192f0bf4cb0f1&jobFamilyGroup=c2197eea2758408bbbe52d2c04006230&timeType=14bb6aa2c25e4a218b2a3faaa951e44c",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:26.415241",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:26.424601"
+    },
+    "BrowserStack": {
+      "company": "BrowserStack",
+      "url": "https://browserstack.wd3.myworkdayjobs.com/External?jobFamilyGroup=0cb9174e33c9100190f156427de80000",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:28.425407",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:28.430286"
+    },
+    "3M": {
+      "company": "3M",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search?Location_Country=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e937e224196b1066cb46855288e09e9c",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:30.431135",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:30.441576"
+    },
+    "Gen": {
+      "company": "Gen",
+      "url": "https://gen.wd1.myworkdayjobs.com/careers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:32.442822",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:32.456781"
+    },
+    "Intel": {
+      "company": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External?locations=1e4a4eb3adf101f44070f976bf8184cf",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:34.458271",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:34.468136"
+    },
+    "Crowdstrike": {
+      "company": "Crowdstrike",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/CrowdStrikeCareers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&Job_Family=1408861ee6e201641be2c2f6b000c00b&Job_Family=1408861ee6e20197f95adbf6b000d20b&Job_Family=cb19f044639b1001f6a02595bc920000",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:36.468952",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:36.477996"
+    },
+    "Nvidia": {
+      "company": "Nvidia",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea52b82135ba3266",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:38.478921",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:38.486488"
+    },
+    "Samsung": {
+      "company": "Samsung",
+      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers?locations=9903637af4ee10017a5e7c6741a30000&locations=0c974e8c1228010867596ab21b3c3469",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:40.487340",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:40.493695"
+    },
+    "Philips": {
+      "company": "Philips",
+      "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers?locationCountry=India&locationHierarchy1=6e1b2a934716103c2adde1d57e7700ea&jobFamilyGroup=58aeacb31cc0011e54561931bd325829&jobFamilyGroup=169c3da8f7270169c0ee692fbd324709&jobFamilyGroup=94eec23a3cab01216af07777df6a8d29",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:42.494419",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:42.504016"
+    },
+    "Adobe": {
+      "company": "Adobe",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=591af8b812fa10737af39db3d96eed9f&jobFamilyGroup=591af8b812fa10737b0e880e0e3eeee9",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:44.505516",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:44.517815"
+    },
+    "Jhonson Controls": {
+      "company": "Jhonson Controls",
+      "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI?locations=59c45107aefd0100150a39cae16f0000&locations=d88b8274a28d01001508d6e41b790000&locations=8a6647241218010014dc0448de550000&locations=8a6647241218010014dbfbb6369e0000&locations=d88b8274a28d0100151240aebe770000&locations=5d89c910febd010014edfa0ce32d0000&locations=15695db1dccc010014dc9953fad00000&locations=d88b8274a28d0100150d450046450000&jobFamilyGroup=e6c5fb966d2f103b0676ec44ac856a22",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:46.518899",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:46.527941"
+    },
+    "Logitech": {
+      "company": "Logitech",
+      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e&jobFamilyGroup=e1dd9f3022da104d1ec67decab9a80a0&jobFamilyGroup=e1dd9f3022da104d1ec6875c07a280aa",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:48.528985",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:48.541686"
+    },
+    "Mastercard": {
+      "company": "Mastercard",
+      "url": "https://careers.mastercard.com/us/en/search-results",
+      "status": "failed",
+      "start_time": "2025-07-31T12:39:50.543161",
+      "jobs": [],
+      "pagination_info": {
+        "pages_scraped": 0,
+        "total_jobs_found": 0,
+        "successful_jobs": 0,
+        "failed_jobs": 0,
+        "pagination_type": "button_click"
+      },
+      "timing": {
+        "navigation": 0,
+        "cookie_handling": 0,
+        "page_load": 0,
+        "captcha_handling": 0,
+        "total": 0
+      },
+      "errors": [
+        "Navigation error: Page.goto: Target page, context or browser has been closed"
+      ],
+      "gemini_processing_errors": [],
+      "statistics": {},
+      "end_time": "2025-07-31T12:39:50.552204"
+    }
+  }
+}
